@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-04T08:35:44Z",
+  "updated": "2026-08-04T14:10:31Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "squid",
+      "tag": "#UCGUQQC9Q",
+      "trophies1": 500,
+      "trophies2": 1775,
       "isNew": false
     },
     {
@@ -18,10 +18,10 @@
       "isNew": false
     },
     {
-      "name": "squid",
-      "tag": "#UCGUQQC9Q",
-      "trophies1": 500,
-      "trophies2": 1775,
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -193,17 +193,17 @@
       "isNew": false
     },
     {
-      "name": "JF",
-      "tag": "#VJUYCLP",
-      "trophies1": 2400,
-      "trophies2": 2925,
-      "isNew": false
-    },
-    {
       "name": "Ya Mahdi (\u0639)",
       "tag": "#JRU9U20RV",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "JF",
+      "tag": "#VJUYCLP",
+      "trophies1": 2400,
+      "trophies2": 2925,
       "isNew": false
     },
     {
@@ -305,17 +305,17 @@
       "isNew": false
     },
     {
-      "name": "jay#1",
-      "tag": "#2QQL88JLQ",
-      "trophies1": 0,
-      "trophies2": 125,
-      "isNew": false
-    },
-    {
       "name": "WetCatFood",
       "tag": "#8RLUG2G9Y",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "jay#1",
+      "tag": "#2QQL88JLQ",
+      "trophies1": 0,
+      "trophies2": 125,
       "isNew": false
     }
   ]
