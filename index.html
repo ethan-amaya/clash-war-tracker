@@ -59,6 +59,7 @@
     .dot-orange { background: #d29922; }
     .dot-red    { background: #da3633; }
     .dot-blue   { background: #58a6ff; }
+    .dot-gold   { background: #ffd33d; }
 
     .note {
       text-align: center;
@@ -123,6 +124,7 @@
     .badge-orange { background: #3a2c0a; color: #e3b341; }
     .badge-red    { background: #3a1212; color: #f85149; }
     .badge-blue   { background: #102a43; color: #58a6ff; }
+    .badge-gold   { background: #3a2f0a; color: #ffd33d; }
 
     .status-col { text-align: center; }
 
@@ -145,6 +147,7 @@
     <div class="legend-item"><div class="dot dot-orange"></div> Participated but under 800 in both</div>
     <div class="legend-item"><div class="dot dot-red"></div> Did not participate in either war</div>
     <div class="legend-item"><div class="dot dot-blue"></div> Joined within the last 2 weeks</div>
+    <div class="legend-item"><div class="dot dot-gold"></div> 1,600+ trophies in both wars</div>
   </div>
 
   <p class="note">Only current clan members are shown.</p>
@@ -169,6 +172,7 @@
   <script>
     function classify(m) {
       if (m.isNew) return "new";
+      if (m.trophies1 >= 1600 && m.trophies2 >= 1600) return "goat";
       if (m.trophies1 === 0 && m.trophies2 === 0) return "red";
       if (m.trophies1 < 800 && m.trophies2 < 800) return "orange";
       return "green";
@@ -176,6 +180,7 @@
 
     function badgeHtml(status) {
       const map = {
+        goat:   { cls: "badge-gold",   label: "GOAT \u{1F410}" },
         green:  { cls: "badge-green",  label: "Active" },
         orange: { cls: "badge-orange", label: "Low Trophies" },
         red:    { cls: "badge-red",    label: "Inactive" },
@@ -192,7 +197,7 @@
     }
 
     function statusOrder(s) {
-      return s === "red" ? 0 : s === "orange" ? 1 : s === "green" ? 2 : 3;
+      return s === "goat" ? 0 : s === "red" ? 1 : s === "orange" ? 2 : s === "green" ? 3 : 4;
     }
 
     async function load() {
