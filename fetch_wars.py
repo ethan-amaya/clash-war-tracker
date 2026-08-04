@@ -12,8 +12,10 @@ CLAN_TAG = os.environ["CLAN_TAG"]
 def cr_get(path):
     url = API_BASE + path
     key = API_KEY.strip()
-    print(f"API key length: {len(key)}, starts with: {key[:6]}...")
-    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {key}"})
+    req = urllib.request.Request(url, headers={
+        "Authorization": f"Bearer {key}",
+        "User-Agent": "Mozilla/5.0 (compatible; clash-war-tracker/1.0)",
+    })
     try:
         with urllib.request.urlopen(req) as resp:
             return json.loads(resp.read())
