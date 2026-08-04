@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T05:36:03Z",
+  "updated": "2026-08-04T05:54:10Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -49,8 +49,8 @@
       "name": "N\u00fckmon",
       "tag": "#RURLYGQ2C",
       "trophies1": 0,
-      "trophies2": null,
-      "isNew": true
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "RudderBuck",
@@ -168,8 +168,15 @@
       "name": "<c9>MustMees",
       "tag": "#GJLQVJPLU",
       "trophies1": 0,
-      "trophies2": null,
-      "isNew": true
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "Kado V2",
@@ -183,13 +190,6 @@
       "tag": "#UVR000YR9",
       "trophies1": 2350,
       "trophies2": 2675,
-      "isNew": false
-    },
-    {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -230,9 +230,9 @@
     {
       "name": "King B",
       "tag": "#G9GLJGCGP",
-      "trophies1": null,
-      "trophies2": null,
-      "isNew": true
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "PB_DINO3",
@@ -266,15 +266,15 @@
       "name": "BigJigglyDog",
       "tag": "#8VPQQ2JC8",
       "trophies1": 0,
-      "trophies2": null,
-      "isNew": true
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "Lilboylee",
       "tag": "#YQCR2YVQU",
-      "trophies1": null,
-      "trophies2": null,
-      "isNew": true
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "UltimatePotato",
@@ -315,8 +315,8 @@
       "name": "WetCatFood",
       "tag": "#8RLUG2G9Y",
       "trophies1": 0,
-      "trophies2": null,
-      "isNew": true
+      "trophies2": 0,
+      "isNew": false
     }
   ]
 }
