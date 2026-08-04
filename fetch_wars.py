@@ -46,10 +46,7 @@ def fetch_war_log():
                     "name": p.get("name", ""),
                     "trophies": p.get("fame", 0),
                 }
-        wars.append({
-            "season": f"Season {race.get('seasonId', '?')}",
-            "participants": participants,
-        })
+        wars.append({"participants": participants})
     return wars
 
 
@@ -77,8 +74,8 @@ def main():
     wars = fetch_war_log()
     output = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "season1": wars[0]["season"] if len(wars) > 0 else "War 1",
-        "season2": wars[1]["season"] if len(wars) > 1 else "War 2",
+        "season1": "Previous War",
+        "season2": "War Before That",
         "members": build_roster(members, wars),
     }
     os.makedirs("data", exist_ok=True)
