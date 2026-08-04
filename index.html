@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clan War Tracker</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    header h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #f0f6fc;
+    }
+
+    header p {
+      font-size: 0.85rem;
+      color: #8b949e;
+      margin-top: 0.4rem;
+    }
+
+    .legend {
+      display: flex;
+      gap: 1.2rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.82rem;
+      color: #8b949e;
+    }
+
+    .dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .dot-green  { background: #2ea043; }
+    .dot-orange { background: #d29922; }
+    .dot-red    { background: #da3633; }
+
+    .note {
+      text-align: center;
+      font-size: 0.78rem;
+      color: #6e7681;
+      margin-bottom: 2rem;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+
+    thead th {
+      background: #161b22;
+      color: #8b949e;
+      text-align: left;
+      padding: 0.7rem 1rem;
+      font-weight: 600;
+      border-bottom: 1px solid #30363d;
+      white-space: nowrap;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid #21262d;
+      transition: background 0.1s;
+    }
+
+    tbody tr:hover { background: #161b22; }
+
+    td {
+      padding: 0.6rem 1rem;
+      vertical-align: middle;
+    }
+
+    .player-name { font-weight: 500; }
+
+    .fame-cell {
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .fame-zero { color: #6e7681; }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.03em;
+    }
+
+    .badge-green  { background: #1a3a22; color: #3fb950; }
+    .badge-orange { background: #3a2c0a; color: #e3b341; }
+    .badge-red    { background: #3a1212; color: #f85149; }
+
+    .status-col { text-align: center; }
+
+    #error {
+      text-align: center;
+      color: #f85149;
+      margin-top: 4rem;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Clan War Tracker</h1>
+    <p id="updated">Loading...</p>
+  </header>
+
+  <div class="legend">
+    <div class="legend-item"><div class="dot dot-green"></div> 800+ fame in at least one war</div>
+    <div class="legend-item"><div class="dot dot-orange"></div> Participated but under 800 in both</div>
+    <div class="legend-item"><div class="dot dot-red"></div> Did not participate in either war</div>
+  </div>
+
+  <p class="note">Players absent from a war may have joined the clan after it ended.</p>
+
+  <div class="table-wrap">
+    <table id="war-table" style="display:none">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Player</th>
+          <th id="war1-header">War 1 Fame</th>
+          <th id="war2-header">War 2 Fame</th>
+          <th class="status-col">Status</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <div id="error" style="display:none"></div>
+
+  <script>
+    function classify(w1, w2) {
+      if (w1 === 0 && w2 === 0) return "red";
+      if (w1 < 800 && w2 < 800) return "orange";
+      return "green";
+    }
+
+    function badgeHtml(status) {
+      const map = {
+        green:  { cls: "badge-green",  label: "Active" },
+        orange: { cls: "badge-orange", label: "Low Fame" },
+        red:    { cls: "badge-red",    label: "Inactive" },
+      };
+      const { cls, label } = map[status];
+      return `<span class="badge ${cls}">${label}</span>`;
+    }
+
+    function fmtFame(v) {
+      if (v === 0) return `<span class="fame-zero">—</span>`;
+      return v.toLocaleString();
+    }
+
+    function statusOrder(s) {
+      return s === "red" ? 0 : s === "orange" ? 1 : 2;
+    }
+
+    function formatDate(raw) {
+      if (!raw) return "";
+      // CR format: "20260730T120000.000Z"
+      const iso = raw.replace(
+        /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})/,
+        "$1-$2-$3T$4:$5:$6"
+      );
+      const d = new Date(iso);
+      return isNaN(d) ? raw : d.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+    }
+
+    async function load() {
+      try {
+        const resp = await fetch("./data/wars.json");
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const data = await resp.json();
+
+        const updated = new Date(data.updated);
+        document.getElementById("updated").textContent =
+          `Last updated: ${updated.toLocaleString()}`;
+
+        const wars = data.wars || [];
+        const war1 = wars[0] || { participants: [] };
+        const war2 = wars[1] || { participants: [] };
+
+        document.getElementById("war1-header").textContent =
+          `${war1.season || "War 1"} Fame`;
+        document.getElementById("war2-header").textContent =
+          `${war2.season || "War 2"} Fame`;
+
+        const map = {};
+        war1.participants.forEach(p => {
+          map[p.tag] = { name: p.name, tag: p.tag, w1: p.fame, w2: 0 };
+        });
+        war2.participants.forEach(p => {
+          if (map[p.tag]) {
+            map[p.tag].w2 = p.fame;
+          } else {
+            map[p.tag] = { name: p.name, tag: p.tag, w1: 0, w2: p.fame };
+          }
+        });
+
+        const rows = Object.values(map);
+        rows.sort((a, b) => {
+          const sa = classify(a.w1, a.w2);
+          const sb = classify(b.w1, b.w2);
+          const ord = statusOrder(sa) - statusOrder(sb);
+          if (ord !== 0) return ord;
+          return (b.w1 + b.w2) - (a.w1 + a.w2);
+        });
+
+        const tbody = document.getElementById("tbody");
+        rows.forEach((r, i) => {
+          const status = classify(r.w1, r.w2);
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td style="color:#6e7681;font-size:0.8rem">${i + 1}</td>
+            <td class="player-name">${r.name}</td>
+            <td class="fame-cell">${fmtFame(r.w1)}</td>
+            <td class="fame-cell">${fmtFame(r.w2)}</td>
+            <td class="status-col">${badgeHtml(status)}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+
+        document.getElementById("war-table").style.display = "";
+      } catch (e) {
+        const el = document.getElementById("error");
+        el.textContent = `Failed to load war data: ${e.message}`;
+        el.style.display = "";
+        document.getElementById("updated").textContent = "";
+      }
+    }
+
+    load();
+  </script>
+</body>
+</html>
