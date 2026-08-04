@@ -202,8 +202,9 @@
         const data = await resp.json();
 
         const updated = new Date(data.updated);
+        const formatted = updated.toLocaleString(undefined, { timeZoneName: "short" });
         document.getElementById("updated").textContent =
-          `Last updated: ${updated.toLocaleString()}`;
+          `Last updated: ${formatted}`;
 
         document.getElementById("war1-header").textContent =
           `${data.season1 || "War 1"} Trophies`;
