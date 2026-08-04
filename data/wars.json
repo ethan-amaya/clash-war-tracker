@@ -1,4 +1,3287 @@
 {
-  "updated": "1970-01-01T00:00:00Z",
-  "wars": []
+  "updated": "2026-08-04T05:19:52Z",
+  "wars": [
+    {
+      "season": "Season 134",
+      "endTime": "20260803T093304.000Z",
+      "participants": [
+        {
+          "name": "olakace 29",
+          "tag": "#JCJR90JY8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "AREYOUMAD?!",
+          "tag": "#UPC9PVLC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "CHOPPER",
+          "tag": "#8P2RLLUL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Chieff\u0f06Keeff",
+          "tag": "#90L9YC2P",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "7K \u2764\ufe0f \u1d00\u0274\u1d05\u028f \u2626\ufe0e",
+          "tag": "#2V2GUQGLC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Rearmed\u26a1",
+          "tag": "#GPRR02LJU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Lordon",
+          "tag": "#GUYUPLURJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Rene sav",
+          "tag": "#2L90JGQJ2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "NENE 2406",
+          "tag": "#JQJY9CC8C",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Combatiente",
+          "tag": "#2JCJ9UJ2G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u2022DarkCacho\u2022",
+          "tag": "#2QJCY9GC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Clasher",
+          "tag": "#880VLYVVV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "chelo",
+          "tag": "#YLJV8JQG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ElqueTiembla",
+          "tag": "#P0VJVQYQP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jr_abraham.v2",
+          "tag": "#JCUQ8JCV0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "chemick_",
+          "tag": "#VR2G2P0QP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "sergee",
+          "tag": "#2QRQ8RL0Q",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jamartin",
+          "tag": "#GUVCYVC8G",
+          "fame": 450,
+          "decksUsed": 3
+        },
+        {
+          "name": "Geralt de Rivia",
+          "tag": "#Y0PU2PUGV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "_Soul_",
+          "tag": "#90VLUGP20",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Fer",
+          "tag": "#CR09RU8Y2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "El-SAMURAY",
+          "tag": "#LRJCPPRP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jojo",
+          "tag": "#2GRJ9VRV0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Sugah",
+          "tag": "#VQ0JC0VPL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Alex Trevo",
+          "tag": "#Y2CQ88LQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "McLovin",
+          "tag": "#29GV2QRY2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Nov\u2122 Adriel_03\u2728",
+          "tag": "#909VP28RQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "miznh",
+          "tag": "#2C8PLP0QP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Dany",
+          "tag": "#LUL9GQCP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ferxogl",
+          "tag": "#J2JYURC90",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Nandi0813",
+          "tag": "#888P280UJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "davidguku",
+          "tag": "#L02CVY8Q0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "DYLAN 2.6",
+          "tag": "#UQYG0U228",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Black Fate",
+          "tag": "#VJY0P0CY8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Ad\u00e1n",
+          "tag": "#Y9JUY2PC9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "kevin777",
+          "tag": "#VV8ULG0JY",
+          "fame": 100,
+          "decksUsed": 1
+        },
+        {
+          "name": "poolneitor",
+          "tag": "#8UJ09UJ22",
+          "fame": 200,
+          "decksUsed": 1
+        },
+        {
+          "name": "ZilverPhoenix",
+          "tag": "#R9PRGC2RL",
+          "fame": 200,
+          "decksUsed": 2
+        },
+        {
+          "name": "I'mAlva",
+          "tag": "#QU8V292R",
+          "fame": 500,
+          "decksUsed": 2
+        },
+        {
+          "name": "Lalo",
+          "tag": "#202L0YUJJC",
+          "fame": 1100,
+          "decksUsed": 5
+        },
+        {
+          "name": "Galal",
+          "tag": "#PPY0U2PQ",
+          "fame": 1000,
+          "decksUsed": 5
+        },
+        {
+          "name": "Daniel_E",
+          "tag": "#988YCYP8",
+          "fame": 600,
+          "decksUsed": 4
+        },
+        {
+          "name": "Andres",
+          "tag": "#J2YPU02LC",
+          "fame": 1400,
+          "decksUsed": 8
+        },
+        {
+          "name": "imtorrs",
+          "tag": "#YRCY8Y8PY",
+          "fame": 800,
+          "decksUsed": 4
+        },
+        {
+          "name": "Happpyghost2",
+          "tag": "#20QYQU29J0",
+          "fame": 800,
+          "decksUsed": 6
+        },
+        {
+          "name": "Noname",
+          "tag": "#V2P0LJV9Y",
+          "fame": 800,
+          "decksUsed": 4
+        },
+        {
+          "name": "Alex Boom",
+          "tag": "#8RCQ9UQC2",
+          "fame": 900,
+          "decksUsed": 4
+        },
+        {
+          "name": "Bansu",
+          "tag": "#208QJ8UV",
+          "fame": 1150,
+          "decksUsed": 9
+        },
+        {
+          "name": "mau canavati",
+          "tag": "#PRQRVUJ2",
+          "fame": 1100,
+          "decksUsed": 8
+        },
+        {
+          "name": "LilVal",
+          "tag": "#2900G08",
+          "fame": 1300,
+          "decksUsed": 8
+        },
+        {
+          "name": "Rambaldo",
+          "tag": "#2LGJ8QJC",
+          "fame": 1500,
+          "decksUsed": 9
+        },
+        {
+          "name": "mendoz",
+          "tag": "#JCVCJLR9",
+          "fame": 1300,
+          "decksUsed": 8
+        },
+        {
+          "name": "adrian21s",
+          "tag": "#C8GLL2CJ",
+          "fame": 1400,
+          "decksUsed": 8
+        },
+        {
+          "name": "Jmunoz",
+          "tag": "#2LVJYPGL",
+          "fame": 1700,
+          "decksUsed": 12
+        },
+        {
+          "name": "Quijano",
+          "tag": "#P9Q2G2CL",
+          "fame": 2400,
+          "decksUsed": 16
+        },
+        {
+          "name": "Conde",
+          "tag": "#9GRVYYGG",
+          "fame": 2500,
+          "decksUsed": 14
+        },
+        {
+          "name": "CHI Anonymo",
+          "tag": "#8QRLGC8PL",
+          "fame": 2700,
+          "decksUsed": 16
+        },
+        {
+          "name": "ElHaritz",
+          "tag": "#R8Y2UCJC0",
+          "fame": 2700,
+          "decksUsed": 16
+        },
+        {
+          "name": "Antiguana",
+          "tag": "#8UY2VVY0",
+          "fame": 2600,
+          "decksUsed": 16
+        },
+        {
+          "name": "RAY2043",
+          "tag": "#LV0JVCGP",
+          "fame": 2150,
+          "decksUsed": 11
+        },
+        {
+          "name": "<c5>Mitras",
+          "tag": "#2YL0P99LU",
+          "fame": 2200,
+          "decksUsed": 14
+        },
+        {
+          "name": "Hector",
+          "tag": "#9JLY8QV9",
+          "fame": 3000,
+          "decksUsed": 16
+        },
+        {
+          "name": "tomii",
+          "tag": "#QLQ99VCV",
+          "fame": 3200,
+          "decksUsed": 16
+        },
+        {
+          "name": "Bobby",
+          "tag": "#29QL0LV9",
+          "fame": 2700,
+          "decksUsed": 12
+        },
+        {
+          "name": "MAU3400000000",
+          "tag": "#YYVV8PLQ0",
+          "fame": 3000,
+          "decksUsed": 16
+        },
+        {
+          "name": "Luis",
+          "tag": "#GYUPC02VY",
+          "fame": 3200,
+          "decksUsed": 16
+        },
+        {
+          "name": "WILDCHICKENBUTT",
+          "tag": "#JRY2J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Walrus Knight",
+          "tag": "#P9U00C9YC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "logan",
+          "tag": "#GQ8G8Y2RU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "<c6>\u0199\u00f8\u017ce",
+          "tag": "#UPYVQG8UU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "STB Yann",
+          "tag": "#Q9CGJJ8GL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "sindryl",
+          "tag": "#2Y89YCP8C",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": ":D",
+          "tag": "#GQ888L9JG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Conquest",
+          "tag": "#2VQ82U0Q0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "sater",
+          "tag": "#LVR8VVRRC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "v@l3nt1n0",
+          "tag": "#VLLJCPVYC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "pLeydo",
+          "tag": "#90R8PY0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "SR. FLOW",
+          "tag": "#92RGJ9PR2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "NhatClash",
+          "tag": "#VCCUGPR2Q",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Fernando",
+          "tag": "#2VGGYGC88",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "yahelis",
+          "tag": "#29U8QV8J0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ultraviolet",
+          "tag": "#2YLQVJY8V",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "EL TEKE TEKE",
+          "tag": "#P0G9RUJCV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "F1reball",
+          "tag": "#QG8G2UGG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Sahahsransu123",
+          "tag": "#20V2QJQ0V",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "snackilleoneal",
+          "tag": "#VJLUU0VGQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u4e2d\u56fdKK",
+          "tag": "#U8UYUPYLP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "King Clasher",
+          "tag": "#2UVCQLYV9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ferxogl",
+          "tag": "#J2JYURC90",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "YEAH YEAH",
+          "tag": "#YGQJRVUJV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Nick",
+          "tag": "#LPQCLQJ8",
+          "fame": 200,
+          "decksUsed": 2
+        },
+        {
+          "name": "azn463",
+          "tag": "#8YGY9U0GY",
+          "fame": 600,
+          "decksUsed": 6
+        },
+        {
+          "name": "Primus69us",
+          "tag": "#V9QQC80JG",
+          "fame": 1600,
+          "decksUsed": 8
+        },
+        {
+          "name": "Balburli",
+          "tag": "#GJPQP8Q00",
+          "fame": 1400,
+          "decksUsed": 10
+        },
+        {
+          "name": "Beer",
+          "tag": "#L2YPQ9VLU",
+          "fame": 1500,
+          "decksUsed": 9
+        },
+        {
+          "name": "gavros7",
+          "tag": "#VL9PYQUYY",
+          "fame": 1700,
+          "decksUsed": 12
+        },
+        {
+          "name": "charmerJSFF",
+          "tag": "#28CVJQU0C",
+          "fame": 1900,
+          "decksUsed": 11
+        },
+        {
+          "name": "athlee",
+          "tag": "#9YUV9PCCV",
+          "fame": 1900,
+          "decksUsed": 12
+        },
+        {
+          "name": "Chainsaw",
+          "tag": "#P98G9PL",
+          "fame": 2300,
+          "decksUsed": 16
+        },
+        {
+          "name": "Legend",
+          "tag": "#8U0YR89GQ",
+          "fame": 2300,
+          "decksUsed": 16
+        },
+        {
+          "name": "Brian",
+          "tag": "#L08GGC8",
+          "fame": 2350,
+          "decksUsed": 16
+        },
+        {
+          "name": "icemage",
+          "tag": "#VJLQQLP",
+          "fame": 2350,
+          "decksUsed": 16
+        },
+        {
+          "name": "Badguy#1",
+          "tag": "#2UP2QUV9",
+          "fame": 2400,
+          "decksUsed": 16
+        },
+        {
+          "name": "Ultimate Chaos",
+          "tag": "#PUG8UQC",
+          "fame": 2700,
+          "decksUsed": 15
+        },
+        {
+          "name": "WAM9",
+          "tag": "#9RCLJ8UY",
+          "fame": 2850,
+          "decksUsed": 16
+        },
+        {
+          "name": "Chicken 2",
+          "tag": "#9V2JVVRU8",
+          "fame": 3000,
+          "decksUsed": 16
+        },
+        {
+          "name": "Kado V2",
+          "tag": "#9Y0UPQQLC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "N\u00fckmon",
+          "tag": "#RURLYGQ2C",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "KG 34 7",
+          "tag": "#2V8UYU0JJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "WetCatFood",
+          "tag": "#8RLUG2G9Y",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Black_Mexican",
+          "tag": "#29YR90U0J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jm.s561",
+          "tag": "#UVYU90GGJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "BigJigglyDog",
+          "tag": "#8VPQQ2JC8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u0160pek",
+          "tag": "#V8GU9GC9L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u2665Bukket:3",
+          "tag": "#UYQGUV0UV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "<c9>MustMees",
+          "tag": "#GJLQVJPLU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ssjpapi",
+          "tag": "#PY0UL9VJJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jay#1",
+          "tag": "#2QQL88JLQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "heywoah69",
+          "tag": "#RYY2VQ9YJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "wezzy",
+          "tag": "#U80UCYG98",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Adangamer",
+          "tag": "#828YJ9YP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Moss",
+          "tag": "#CGU9P9VG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "moni",
+          "tag": "#PU820J809",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "rebel",
+          "tag": "#VGP9QCG09",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Jazzydonut42",
+          "tag": "#9J28VQQR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "TacoCat",
+          "tag": "#UYV8Q8CL0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "bob",
+          "tag": "#UJQ2U2LG0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Ya Mahdi (\u0639)",
+          "tag": "#JRU9U20RV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Unofficial.Jayy",
+          "tag": "#U9VCY8LQR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "groovylord",
+          "tag": "#PR8YJJLLG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "CatsAway!",
+          "tag": "#GPLRVLRVJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Bandango",
+          "tag": "#98R2LGQRV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "PB_DINO3",
+          "tag": "#CGY8J9RGV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "B\u00ears\u00eark",
+          "tag": "#VU8VRUGQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "RazeNBlaze420",
+          "tag": "#YRQJ0VGV2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "You",
+          "tag": "#Y2JPCYGYP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Bread",
+          "tag": "#VC9QYYLYG",
+          "fame": 200,
+          "decksUsed": 1
+        },
+        {
+          "name": "LeChungus25",
+          "tag": "#G8VV98LLQ",
+          "fame": 400,
+          "decksUsed": 3
+        },
+        {
+          "name": "squid",
+          "tag": "#UCGUQQC9Q",
+          "fame": 500,
+          "decksUsed": 2
+        },
+        {
+          "name": "eThAn",
+          "tag": "#P289LP08Q",
+          "fame": 800,
+          "decksUsed": 5
+        },
+        {
+          "name": "RudderBuck",
+          "tag": "#LPG8RRJJJ",
+          "fame": 800,
+          "decksUsed": 4
+        },
+        {
+          "name": "Morlyn71",
+          "tag": "#899GU20YC",
+          "fame": 1400,
+          "decksUsed": 8
+        },
+        {
+          "name": "michael",
+          "tag": "#UPYYQVCP0",
+          "fame": 1100,
+          "decksUsed": 7
+        },
+        {
+          "name": "Chuy ;]",
+          "tag": "#LVLPGQ2LJ",
+          "fame": 1400,
+          "decksUsed": 8
+        },
+        {
+          "name": "lew",
+          "tag": "#YCQCR80YG",
+          "fame": 1250,
+          "decksUsed": 7
+        },
+        {
+          "name": "will-easy",
+          "tag": "#Q982YGYU",
+          "fame": 1600,
+          "decksUsed": 11
+        },
+        {
+          "name": "Aeon^Flux",
+          "tag": "#PJJJGYU",
+          "fame": 2200,
+          "decksUsed": 16
+        },
+        {
+          "name": "MoyaMoya",
+          "tag": "#20GQ9U9R0L",
+          "fame": 2300,
+          "decksUsed": 16
+        },
+        {
+          "name": "DunadainKing",
+          "tag": "#209Q0YUP",
+          "fame": 2400,
+          "decksUsed": 16
+        },
+        {
+          "name": "genos",
+          "tag": "#2VRPJJLQ",
+          "fame": 2150,
+          "decksUsed": 16
+        },
+        {
+          "name": "LAVARBALL",
+          "tag": "#8Y80PVC0U",
+          "fame": 2200,
+          "decksUsed": 16
+        },
+        {
+          "name": "dickie",
+          "tag": "#UVR000YR9",
+          "fame": 2350,
+          "decksUsed": 12
+        },
+        {
+          "name": "JF",
+          "tag": "#VJUYCLP",
+          "fame": 2400,
+          "decksUsed": 16
+        },
+        {
+          "name": "UltimatePotato",
+          "tag": "#VPP2922CJ",
+          "fame": 2600,
+          "decksUsed": 16
+        },
+        {
+          "name": "\u2122MAGA\u00d1A\u2122",
+          "tag": "#G0R2PVVL2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Eliza",
+          "tag": "#VP9UR20GR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "silver",
+          "tag": "#CV8V2RJGP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Axel",
+          "tag": "#VPPGGC82L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u6781\u4e50\u4e16\u754c",
+          "tag": "#VGJJ8JC0V",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "AetheltanD",
+          "tag": "#J0YULR0G8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Prasanna don",
+          "tag": "#C0CPPL9R",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "M4R( 0R7\u00a1Z",
+          "tag": "#9YY9RQR9L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "gerardotp2",
+          "tag": "#82RVQP82R",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "vaquerito?",
+          "tag": "#CJQ2RRQ0U",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "chello",
+          "tag": "#ULJ2VPCJG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Sub Bardock",
+          "tag": "#8P9CV989G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "OMARCITO\u2665\ufe0f\u2665\ufe0f",
+          "tag": "#9URU20LU9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u2661JAVIER\u2661",
+          "tag": "#U0C8PRUU9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jonnhy xem",
+          "tag": "#22CC0VJ9C",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jrr",
+          "tag": "#P8GRPJJ8P",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Alexis",
+          "tag": "#VGQYUL28G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "*_*memito*_*",
+          "tag": "#RURLPL8RR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "super P.E.K.A",
+          "tag": "#29R8RR82Y",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Murc\u00a13l4go",
+          "tag": "#8RVV9YJJQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "dani",
+          "tag": "#VRLJP8VVR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "The_Master The_",
+          "tag": "#20GGC992QY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "The\u2022Kings_Cr",
+          "tag": "#PJYC2GVR8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": ".JUANDY.",
+          "tag": "#20LRGUCLCC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "waldealer",
+          "tag": "#V0QJ98CC0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "rey_Alex\u300b\u2606\u2664",
+          "tag": "#20RUGJ20YG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Lucas_xD",
+          "tag": "#J8PCUQ0VU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Deyberson",
+          "tag": "#P029U2CQQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "esmeralda",
+          "tag": "#9J9QRYCVY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Matiu",
+          "tag": "#200G2L28UQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Mayor of kistow",
+          "tag": "#20JUCUQ9GV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "hernandez",
+          "tag": "#20C802Y8J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Angel",
+          "tag": "#J282C8VPL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "frank",
+          "tag": "#LRQPR8UPC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "DMX",
+          "tag": "#C0UGG09QY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Chiquita\u2060\u273f\u2060\u2661",
+          "tag": "#20QQ9QY902",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "lemusland",
+          "tag": "#20QQG8U2",
+          "fame": 300,
+          "decksUsed": 3
+        },
+        {
+          "name": "alex",
+          "tag": "#V8QVYCGUY",
+          "fame": 400,
+          "decksUsed": 4
+        },
+        {
+          "name": "\u2122 BENLLAMIN \u03c0",
+          "tag": "#20QRQQR0QG",
+          "fame": 450,
+          "decksUsed": 3
+        },
+        {
+          "name": "Yisus",
+          "tag": "#RLQPQUPCR",
+          "fame": 600,
+          "decksUsed": 4
+        },
+        {
+          "name": "manuel shul",
+          "tag": "#8JGVGQLC2",
+          "fame": 1200,
+          "decksUsed": 8
+        },
+        {
+          "name": "Dollan 77",
+          "tag": "#VUJU0LJL",
+          "fame": 1000,
+          "decksUsed": 8
+        },
+        {
+          "name": "liro",
+          "tag": "#800PGR89Q",
+          "fame": 1400,
+          "decksUsed": 12
+        },
+        {
+          "name": "V3t3r4n0 XD",
+          "tag": "#P29J8P8JG",
+          "fame": 1600,
+          "decksUsed": 12
+        },
+        {
+          "name": "Islandia",
+          "tag": "#209VR8GUGL",
+          "fame": 2300,
+          "decksUsed": 16
+        },
+        {
+          "name": "steven666",
+          "tag": "#U80GRJQ0U",
+          "fame": 1900,
+          "decksUsed": 12
+        },
+        {
+          "name": "el rival",
+          "tag": "#P2PQ90RQQ",
+          "fame": 2100,
+          "decksUsed": 13
+        },
+        {
+          "name": "maestro kazan",
+          "tag": "#Y28UL80V2",
+          "fame": 2600,
+          "decksUsed": 16
+        },
+        {
+          "name": "OM\u00c3R",
+          "tag": "#2P8GRYQ98",
+          "fame": 2700,
+          "decksUsed": 16
+        },
+        {
+          "name": "Gisele",
+          "tag": "#89VQGQLU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u00e7olo\u00e7hokJ20",
+          "tag": "#82QLQ0P2J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "CallMeNeavs",
+          "tag": "#CL0Y2R02J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Cannon Slanga",
+          "tag": "#Q2CVJL0R",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Artio",
+          "tag": "#QP0CGVP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "JPonU",
+          "tag": "#9029CYY0L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "THEO_KNAN",
+          "tag": "#2Q8QP0QY8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Final.Divinity",
+          "tag": "#PCC9UVV2J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Jvoll76248",
+          "tag": "#V8JRQC0YL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "~BOOMER~",
+          "tag": "#VP88C0VQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Wylie",
+          "tag": "#VLGRQPJ9P",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "IM AN OG",
+          "tag": "#CUVJ9VRC2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Randy/Berlin",
+          "tag": "#U8PUJPCC2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Leonuntius",
+          "tag": "#G9LU29G9L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "FOLBANEX\u271d\ufe0f",
+          "tag": "#RL0PQUJY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Eviljimmi",
+          "tag": "#JP22CV282",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Ganond0rf",
+          "tag": "#2QCCRG8YU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Maki",
+          "tag": "#VL9YV89LJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "THEone29",
+          "tag": "#GCL9GRGYV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "cx",
+          "tag": "#C0GV9P9YR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "wafflez",
+          "tag": "#UVU9C00P9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "franco",
+          "tag": "#9CV0YUPYL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "MADMAX PRINCE",
+          "tag": "#8Q2YYC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "AGT",
+          "tag": "#V89R9PRGR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ChillzBeanie",
+          "tag": "#V9P8UJ22C",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "theBboi",
+          "tag": "#C2RGR8JCU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Wiskers",
+          "tag": "#GG9LYLQ2Y",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Reuben z",
+          "tag": "#UGYVPR9QJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "The Waviest",
+          "tag": "#RPJJJ8GC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Pix3e",
+          "tag": "#UPJ99LYCY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "RealPDawg",
+          "tag": "#2UQYJ9U0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "NOJJA\u201c",
+          "tag": "#2RVCV989J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "HARAMBE",
+          "tag": "#8GVLJP2Q",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "wyt",
+          "tag": "#QR9QY2VVP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "kidnapper",
+          "tag": "#V2Q920RPJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Sulika",
+          "tag": "#UPU0GJPL9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Kevn.10",
+          "tag": "#2C9YJ9QJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jagger",
+          "tag": "#UPCJY0VL8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "pizzaguy11",
+          "tag": "#VYQUGJL2Y",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "hi",
+          "tag": "#2UYVPYL0U",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "TuffSammy",
+          "tag": "#VCRG9C8VL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Wesleymo",
+          "tag": "#20988QYLVL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "fouad",
+          "tag": "#V0L0JCP0Y",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Duffy",
+          "tag": "#VQQYCQQQQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u8981\u591a\u597d\u7c97\u5c31\u6709\u591a\u597d\u7c97",
+          "tag": "#2U8J0Q9RV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Commander_Seitz",
+          "tag": "#CY2PUURC2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Jeremy",
+          "tag": "#C2QR2GLJU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "sunbear1106",
+          "tag": "#V0GRVQRRQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ThemApples",
+          "tag": "#UYCCP922G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "The master",
+          "tag": "#UGU82CYJJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "elliot-_-",
+          "tag": "#VRPPUUL92",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Ravi",
+          "tag": "#VJR09RP92",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "CHRIST IS KING",
+          "tag": "#L8L0CVRJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "dtroyt",
+          "tag": "#LYC9CJU9U",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Larry",
+          "tag": "#20GCCJPPP2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Lucid Blaze",
+          "tag": "#GYP0CP8JL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Kiri.orthodox",
+          "tag": "#GC2UC2PG8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "WhyYouSoMad",
+          "tag": "#VRRPCYUG8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "randy/Berlin",
+          "tag": "#VJCR8U9R0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Jastt",
+          "tag": "#20LYUGRRJP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "idroppedski",
+          "tag": "#20JPQPLUYL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "<c6>Zee",
+          "tag": "#VP2QCLQG8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "tym04",
+          "tag": "#20YY9UY2UJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Speedster7816",
+          "tag": "#20QV8QGC2P",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Goblin King",
+          "tag": "#20VP8P2UQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "joey",
+          "tag": "#GC2VY2LYQ",
+          "fame": 100,
+          "decksUsed": 1
+        },
+        {
+          "name": "col",
+          "tag": "#20Q80GRG80",
+          "fame": 100,
+          "decksUsed": 1
+        },
+        {
+          "name": "South",
+          "tag": "#89Y82LGY",
+          "fame": 200,
+          "decksUsed": 2
+        },
+        {
+          "name": "Bradley",
+          "tag": "#8Y999PVJ",
+          "fame": 200,
+          "decksUsed": 1
+        },
+        {
+          "name": "king",
+          "tag": "#VYYJRUGL9",
+          "fame": 200,
+          "decksUsed": 1
+        },
+        {
+          "name": "Dalton",
+          "tag": "#9CPVYRVRQ",
+          "fame": 300,
+          "decksUsed": 2
+        },
+        {
+          "name": "AYDEN 9",
+          "tag": "#2C0P8JLY0",
+          "fame": 700,
+          "decksUsed": 4
+        },
+        {
+          "name": "Psalm 135",
+          "tag": "#CCL022GP0",
+          "fame": 800,
+          "decksUsed": 5
+        },
+        {
+          "name": "Sir Jayman",
+          "tag": "#92QY2YYJ",
+          "fame": 2200,
+          "decksUsed": 14
+        },
+        {
+          "name": "couboy8",
+          "tag": "#L9GVPCPY",
+          "fame": 1700,
+          "decksUsed": 12
+        },
+        {
+          "name": "Neil",
+          "tag": "#LYULVQC0Q",
+          "fame": 2500,
+          "decksUsed": 16
+        },
+        {
+          "name": "rufus",
+          "tag": "#8UUCPQQVQ",
+          "fame": 2200,
+          "decksUsed": 15
+        },
+        {
+          "name": "Papa",
+          "tag": "#VG0JVCCPQ",
+          "fame": 2500,
+          "decksUsed": 16
+        },
+        {
+          "name": "Jshock9nine",
+          "tag": "#URG2RGUPY",
+          "fame": 0,
+          "decksUsed": 0
+        }
+      ]
+    },
+    {
+      "season": "Season 134",
+      "endTime": "20260727T093305.000Z",
+      "participants": [
+        {
+          "name": "AREYOUMAD?!",
+          "tag": "#UPC9PVLC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "CHOPPER",
+          "tag": "#8P2RLLUL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Chieff\u0f06Keeff",
+          "tag": "#90L9YC2P",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "7K \u2764\ufe0f \u1d00\u0274\u1d05\u028f \u2626\ufe0e",
+          "tag": "#2V2GUQGLC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Lordon",
+          "tag": "#GUYUPLURJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "NENE 2406",
+          "tag": "#JQJY9CC8C",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Combatiente",
+          "tag": "#2JCJ9UJ2G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u2022DarkCacho\u2022",
+          "tag": "#2QJCY9GC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Clasher",
+          "tag": "#880VLYVVV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ElqueTiembla",
+          "tag": "#P0VJVQYQP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jr_abraham.v2",
+          "tag": "#JCUQ8JCV0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "chemick_",
+          "tag": "#VR2G2P0QP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "sergee",
+          "tag": "#2QRQ8RL0Q",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jamartin",
+          "tag": "#GUVCYVC8G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Geralt de Rivia",
+          "tag": "#Y0PU2PUGV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "imtorrs",
+          "tag": "#YRCY8Y8PY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "_Soul_",
+          "tag": "#90VLUGP20",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Fer",
+          "tag": "#CR09RU8Y2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "El-SAMURAY",
+          "tag": "#LRJCPPRP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jojo",
+          "tag": "#2GRJ9VRV0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Sugah",
+          "tag": "#VQ0JC0VPL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Alex Trevo",
+          "tag": "#Y2CQ88LQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "McLovin",
+          "tag": "#29GV2QRY2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Nov\u2122 Adriel_03\u2728",
+          "tag": "#909VP28RQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "miznh",
+          "tag": "#2C8PLP0QP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Dany",
+          "tag": "#LUL9GQCP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "I'mAlva",
+          "tag": "#QU8V292R",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ferxogl",
+          "tag": "#J2JYURC90",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "kevin777",
+          "tag": "#VV8ULG0JY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Nandi0813",
+          "tag": "#888P280UJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "davidguku",
+          "tag": "#L02CVY8Q0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "DYLAN 2.6",
+          "tag": "#UQYG0U228",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Black Fate",
+          "tag": "#VJY0P0CY8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Rene sav",
+          "tag": "#2L90JGQJ2",
+          "fame": 100,
+          "decksUsed": 1
+        },
+        {
+          "name": "olakace 29",
+          "tag": "#JCJR90JY8",
+          "fame": 200,
+          "decksUsed": 1
+        },
+        {
+          "name": "Rearmed\u26a1",
+          "tag": "#GPRR02LJU",
+          "fame": 200,
+          "decksUsed": 1
+        },
+        {
+          "name": "LilVal",
+          "tag": "#2900G08",
+          "fame": 600,
+          "decksUsed": 6
+        },
+        {
+          "name": "poolneitor",
+          "tag": "#8UJ09UJ22",
+          "fame": 400,
+          "decksUsed": 4
+        },
+        {
+          "name": "Ad\u00e1n",
+          "tag": "#Y9JUY2PC9",
+          "fame": 450,
+          "decksUsed": 3
+        },
+        {
+          "name": "Jmunoz",
+          "tag": "#2LVJYPGL",
+          "fame": 500,
+          "decksUsed": 3
+        },
+        {
+          "name": "Galal",
+          "tag": "#PPY0U2PQ",
+          "fame": 600,
+          "decksUsed": 5
+        },
+        {
+          "name": "Noname",
+          "tag": "#V2P0LJV9Y",
+          "fame": 600,
+          "decksUsed": 3
+        },
+        {
+          "name": "Antiguana",
+          "tag": "#8UY2VVY0",
+          "fame": 700,
+          "decksUsed": 4
+        },
+        {
+          "name": "chelo",
+          "tag": "#YLJV8JQG",
+          "fame": 700,
+          "decksUsed": 4
+        },
+        {
+          "name": "Lalo",
+          "tag": "#202L0YUJJC",
+          "fame": 1100,
+          "decksUsed": 6
+        },
+        {
+          "name": "Rambaldo",
+          "tag": "#2LGJ8QJC",
+          "fame": 1200,
+          "decksUsed": 8
+        },
+        {
+          "name": "Happpyghost2",
+          "tag": "#20QYQU29J0",
+          "fame": 1200,
+          "decksUsed": 8
+        },
+        {
+          "name": "mau canavati",
+          "tag": "#PRQRVUJ2",
+          "fame": 1300,
+          "decksUsed": 7
+        },
+        {
+          "name": "Bansu",
+          "tag": "#208QJ8UV",
+          "fame": 1475,
+          "decksUsed": 13
+        },
+        {
+          "name": "Daniel_E",
+          "tag": "#988YCYP8",
+          "fame": 1500,
+          "decksUsed": 8
+        },
+        {
+          "name": "Conde",
+          "tag": "#9GRVYYGG",
+          "fame": 1700,
+          "decksUsed": 11
+        },
+        {
+          "name": "<c5>Mitras",
+          "tag": "#2YL0P99LU",
+          "fame": 1700,
+          "decksUsed": 10
+        },
+        {
+          "name": "Andres",
+          "tag": "#J2YPU02LC",
+          "fame": 1850,
+          "decksUsed": 10
+        },
+        {
+          "name": "Luis",
+          "tag": "#GYUPC02VY",
+          "fame": 1850,
+          "decksUsed": 12
+        },
+        {
+          "name": "Quijano",
+          "tag": "#P9Q2G2CL",
+          "fame": 1900,
+          "decksUsed": 14
+        },
+        {
+          "name": "mendoz",
+          "tag": "#JCVCJLR9",
+          "fame": 1900,
+          "decksUsed": 12
+        },
+        {
+          "name": "CHI Anonymo",
+          "tag": "#8QRLGC8PL",
+          "fame": 2050,
+          "decksUsed": 12
+        },
+        {
+          "name": "adrian21s",
+          "tag": "#C8GLL2CJ",
+          "fame": 2150,
+          "decksUsed": 12
+        },
+        {
+          "name": "Bobby",
+          "tag": "#29QL0LV9",
+          "fame": 2200,
+          "decksUsed": 10
+        },
+        {
+          "name": "Hector",
+          "tag": "#9JLY8QV9",
+          "fame": 2450,
+          "decksUsed": 16
+        },
+        {
+          "name": "RAY2043",
+          "tag": "#LV0JVCGP",
+          "fame": 2800,
+          "decksUsed": 14
+        },
+        {
+          "name": "Alex Boom",
+          "tag": "#8RCQ9UQC2",
+          "fame": 2900,
+          "decksUsed": 15
+        },
+        {
+          "name": "tomii",
+          "tag": "#QLQ99VCV",
+          "fame": 2950,
+          "decksUsed": 16
+        },
+        {
+          "name": "MAU3400000000",
+          "tag": "#YYVV8PLQ0",
+          "fame": 3500,
+          "decksUsed": 16
+        },
+        {
+          "name": "WILDCHICKENBUTT",
+          "tag": "#JRY2J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Walrus Knight",
+          "tag": "#P9U00C9YC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "logan",
+          "tag": "#GQ8G8Y2RU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "<c6>\u0199\u00f8\u017ce",
+          "tag": "#UPYVQG8UU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "STB Yann",
+          "tag": "#Q9CGJJ8GL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "sindryl",
+          "tag": "#2Y89YCP8C",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": ":D",
+          "tag": "#GQ888L9JG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Conquest",
+          "tag": "#2VQ82U0Q0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Primus69us",
+          "tag": "#V9QQC80JG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "sater",
+          "tag": "#LVR8VVRRC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "pLeydo",
+          "tag": "#90R8PY0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "SR. FLOW",
+          "tag": "#92RGJ9PR2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "NhatClash",
+          "tag": "#VCCUGPR2Q",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Fernando",
+          "tag": "#2VGGYGC88",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ultraviolet",
+          "tag": "#2YLQVJY8V",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "F1reball",
+          "tag": "#QG8G2UGG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Sahahsransu123",
+          "tag": "#20V2QJQ0V",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "snackilleoneal",
+          "tag": "#VJLUU0VGQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u4e2d\u56fdKK",
+          "tag": "#U8UYUPYLP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "YEAH YEAH",
+          "tag": "#YGQJRVUJV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Nick",
+          "tag": "#LPQCLQJ8",
+          "fame": 400,
+          "decksUsed": 4
+        },
+        {
+          "name": "charmerJSFF",
+          "tag": "#28CVJQU0C",
+          "fame": 650,
+          "decksUsed": 4
+        },
+        {
+          "name": "King Clasher",
+          "tag": "#2UVCQLYV9",
+          "fame": 700,
+          "decksUsed": 4
+        },
+        {
+          "name": "gavros7",
+          "tag": "#VL9PYQUYY",
+          "fame": 1300,
+          "decksUsed": 9
+        },
+        {
+          "name": "Balburli",
+          "tag": "#GJPQP8Q00",
+          "fame": 1700,
+          "decksUsed": 12
+        },
+        {
+          "name": "azn463",
+          "tag": "#8YGY9U0GY",
+          "fame": 1800,
+          "decksUsed": 16
+        },
+        {
+          "name": "ferxogl",
+          "tag": "#J2JYURC90",
+          "fame": 1800,
+          "decksUsed": 12
+        },
+        {
+          "name": "WAM9",
+          "tag": "#9RCLJ8UY",
+          "fame": 1950,
+          "decksUsed": 13
+        },
+        {
+          "name": "Chicken 2",
+          "tag": "#9V2JVVRU8",
+          "fame": 2000,
+          "decksUsed": 12
+        },
+        {
+          "name": "Ultimate Chaos",
+          "tag": "#PUG8UQC",
+          "fame": 2050,
+          "decksUsed": 12
+        },
+        {
+          "name": "Chainsaw",
+          "tag": "#P98G9PL",
+          "fame": 2200,
+          "decksUsed": 16
+        },
+        {
+          "name": "icemage",
+          "tag": "#VJLQQLP",
+          "fame": 2250,
+          "decksUsed": 16
+        },
+        {
+          "name": "athlee",
+          "tag": "#9YUV9PCCV",
+          "fame": 2300,
+          "decksUsed": 16
+        },
+        {
+          "name": "Legend",
+          "tag": "#8U0YR89GQ",
+          "fame": 2300,
+          "decksUsed": 16
+        },
+        {
+          "name": "Beer",
+          "tag": "#L2YPQ9VLU",
+          "fame": 2450,
+          "decksUsed": 16
+        },
+        {
+          "name": "Badguy#1",
+          "tag": "#2UP2QUV9",
+          "fame": 2550,
+          "decksUsed": 16
+        },
+        {
+          "name": "Brian",
+          "tag": "#L08GGC8",
+          "fame": 2650,
+          "decksUsed": 16
+        },
+        {
+          "name": "Kado V2",
+          "tag": "#9Y0UPQQLC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "eThAn",
+          "tag": "#P289LP08Q",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "KG 34 7",
+          "tag": "#2V8UYU0JJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Black_Mexican",
+          "tag": "#29YR90U0J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jm.s561",
+          "tag": "#UVYU90GGJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u0160pek",
+          "tag": "#V8GU9GC9L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u2665Bukket:3",
+          "tag": "#UYQGUV0UV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ssjpapi",
+          "tag": "#PY0UL9VJJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "heywoah69",
+          "tag": "#RYY2VQ9YJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Adangamer",
+          "tag": "#828YJ9YP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "moni",
+          "tag": "#PU820J809",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "rebel",
+          "tag": "#VGP9QCG09",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Jazzydonut42",
+          "tag": "#9J28VQQR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "TacoCat",
+          "tag": "#UYV8Q8CL0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Ya Mahdi (\u0639)",
+          "tag": "#JRU9U20RV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Unofficial.Jayy",
+          "tag": "#U9VCY8LQR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "groovylord",
+          "tag": "#PR8YJJLLG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Bandango",
+          "tag": "#98R2LGQRV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "PB_DINO3",
+          "tag": "#CGY8J9RGV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Bread",
+          "tag": "#VC9QYYLYG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "B\u00ears\u00eark",
+          "tag": "#VU8VRUGQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "RazeNBlaze420",
+          "tag": "#YRQJ0VGV2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "You",
+          "tag": "#Y2JPCYGYP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jay#1",
+          "tag": "#2QQL88JLQ",
+          "fame": 125,
+          "decksUsed": 1
+        },
+        {
+          "name": "UltimatePotato",
+          "tag": "#VPP2922CJ",
+          "fame": 400,
+          "decksUsed": 4
+        },
+        {
+          "name": "Moss",
+          "tag": "#CGU9P9VG",
+          "fame": 500,
+          "decksUsed": 5
+        },
+        {
+          "name": "RudderBuck",
+          "tag": "#LPG8RRJJJ",
+          "fame": 600,
+          "decksUsed": 3
+        },
+        {
+          "name": "Morlyn71",
+          "tag": "#899GU20YC",
+          "fame": 600,
+          "decksUsed": 4
+        },
+        {
+          "name": "wezzy",
+          "tag": "#U80UCYG98",
+          "fame": 600,
+          "decksUsed": 6
+        },
+        {
+          "name": "CatsAway!",
+          "tag": "#GPLRVLRVJ",
+          "fame": 700,
+          "decksUsed": 4
+        },
+        {
+          "name": "lew",
+          "tag": "#YCQCR80YG",
+          "fame": 700,
+          "decksUsed": 4
+        },
+        {
+          "name": "michael",
+          "tag": "#UPYYQVCP0",
+          "fame": 900,
+          "decksUsed": 6
+        },
+        {
+          "name": "Aeon^Flux",
+          "tag": "#PJJJGYU",
+          "fame": 1300,
+          "decksUsed": 11
+        },
+        {
+          "name": "Chuy ;]",
+          "tag": "#LVLPGQ2LJ",
+          "fame": 1600,
+          "decksUsed": 9
+        },
+        {
+          "name": "squid",
+          "tag": "#UCGUQQC9Q",
+          "fame": 1775,
+          "decksUsed": 11
+        },
+        {
+          "name": "LAVARBALL",
+          "tag": "#8Y80PVC0U",
+          "fame": 1850,
+          "decksUsed": 16
+        },
+        {
+          "name": "DunadainKing",
+          "tag": "#209Q0YUP",
+          "fame": 1900,
+          "decksUsed": 12
+        },
+        {
+          "name": "LeChungus25",
+          "tag": "#G8VV98LLQ",
+          "fame": 1900,
+          "decksUsed": 14
+        },
+        {
+          "name": "genos",
+          "tag": "#2VRPJJLQ",
+          "fame": 2200,
+          "decksUsed": 16
+        },
+        {
+          "name": "will-easy",
+          "tag": "#Q982YGYU",
+          "fame": 2500,
+          "decksUsed": 16
+        },
+        {
+          "name": "MoyaMoya",
+          "tag": "#20GQ9U9R0L",
+          "fame": 2500,
+          "decksUsed": 16
+        },
+        {
+          "name": "dickie",
+          "tag": "#UVR000YR9",
+          "fame": 2675,
+          "decksUsed": 16
+        },
+        {
+          "name": "JF",
+          "tag": "#VJUYCLP",
+          "fame": 2925,
+          "decksUsed": 16
+        },
+        {
+          "name": "\u2122MAGA\u00d1A\u2122",
+          "tag": "#G0R2PVVL2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "silver",
+          "tag": "#CV8V2RJGP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u6781\u4e50\u4e16\u754c",
+          "tag": "#VGJJ8JC0V",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "AetheltanD",
+          "tag": "#J0YULR0G8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Prasanna don",
+          "tag": "#C0CPPL9R",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "M4R( 0R7\u00a1Z",
+          "tag": "#9YY9RQR9L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "gerardotp2",
+          "tag": "#82RVQP82R",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "vaquerito?",
+          "tag": "#CJQ2RRQ0U",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "chello",
+          "tag": "#ULJ2VPCJG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Sub Bardock",
+          "tag": "#8P9CV989G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u2661JAVIER\u2661",
+          "tag": "#U0C8PRUU9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Alexis",
+          "tag": "#VGQYUL28G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "*_*memito*_*",
+          "tag": "#RURLPL8RR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "super P.E.K.A",
+          "tag": "#29R8RR82Y",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Murc\u00a13l4go",
+          "tag": "#8RVV9YJJQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "dani",
+          "tag": "#VRLJP8VVR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "The_Master The_",
+          "tag": "#20GGC992QY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "The\u2022Kings_Cr",
+          "tag": "#PJYC2GVR8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "alex",
+          "tag": "#V8QVYCGUY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": ".JUANDY.",
+          "tag": "#20LRGUCLCC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "waldealer",
+          "tag": "#V0QJ98CC0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "rey_Alex\u300b\u2606\u2664",
+          "tag": "#20RUGJ20YG",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Lucas_xD",
+          "tag": "#J8PCUQ0VU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "esmeralda",
+          "tag": "#9J9QRYCVY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Matiu",
+          "tag": "#200G2L28UQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Mayor of kistow",
+          "tag": "#20JUCUQ9GV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "frank",
+          "tag": "#LRQPR8UPC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "DMX",
+          "tag": "#C0UGG09QY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Axel",
+          "tag": "#VPPGGC82L",
+          "fame": 325,
+          "decksUsed": 2
+        },
+        {
+          "name": "lemusland",
+          "tag": "#20QQG8U2",
+          "fame": 350,
+          "decksUsed": 4
+        },
+        {
+          "name": "jonnhy xem",
+          "tag": "#22CC0VJ9C",
+          "fame": 400,
+          "decksUsed": 4
+        },
+        {
+          "name": "Chiquita\u2060\u273f\u2060\u2661",
+          "tag": "#20QQ9QY902",
+          "fame": 500,
+          "decksUsed": 3
+        },
+        {
+          "name": "Dollan 77",
+          "tag": "#VUJU0LJL",
+          "fame": 800,
+          "decksUsed": 8
+        },
+        {
+          "name": "jrr",
+          "tag": "#P8GRPJJ8P",
+          "fame": 850,
+          "decksUsed": 8
+        },
+        {
+          "name": "maestro kazan",
+          "tag": "#Y28UL80V2",
+          "fame": 900,
+          "decksUsed": 6
+        },
+        {
+          "name": "Yisus",
+          "tag": "#RLQPQUPCR",
+          "fame": 1200,
+          "decksUsed": 12
+        },
+        {
+          "name": "Deyberson",
+          "tag": "#P029U2CQQ",
+          "fame": 1300,
+          "decksUsed": 9
+        },
+        {
+          "name": "steven666",
+          "tag": "#U80GRJQ0U",
+          "fame": 1400,
+          "decksUsed": 8
+        },
+        {
+          "name": "hernandez",
+          "tag": "#20C802Y8J",
+          "fame": 1700,
+          "decksUsed": 16
+        },
+        {
+          "name": "OMARCITO\u2665\ufe0f\u2665\ufe0f",
+          "tag": "#9URU20LU9",
+          "fame": 1725,
+          "decksUsed": 15
+        },
+        {
+          "name": "\u2122 BENLLAMIN \u03c0",
+          "tag": "#20QRQQR0QG",
+          "fame": 1800,
+          "decksUsed": 11
+        },
+        {
+          "name": "manuel shul",
+          "tag": "#8JGVGQLC2",
+          "fame": 2100,
+          "decksUsed": 12
+        },
+        {
+          "name": "OM\u00c3R",
+          "tag": "#2P8GRYQ98",
+          "fame": 2100,
+          "decksUsed": 16
+        },
+        {
+          "name": "V3t3r4n0 XD",
+          "tag": "#P29J8P8JG",
+          "fame": 2300,
+          "decksUsed": 16
+        },
+        {
+          "name": "liro",
+          "tag": "#800PGR89Q",
+          "fame": 2300,
+          "decksUsed": 16
+        },
+        {
+          "name": "el rival",
+          "tag": "#P2PQ90RQQ",
+          "fame": 2600,
+          "decksUsed": 16
+        },
+        {
+          "name": "Islandia",
+          "tag": "#209VR8GUGL",
+          "fame": 2600,
+          "decksUsed": 16
+        },
+        {
+          "name": "CallMeNeavs",
+          "tag": "#CL0Y2R02J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Cannon Slanga",
+          "tag": "#Q2CVJL0R",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Artio",
+          "tag": "#QP0CGVP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "JPonU",
+          "tag": "#9029CYY0L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "THEO_KNAN",
+          "tag": "#2Q8QP0QY8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Final.Divinity",
+          "tag": "#PCC9UVV2J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "South",
+          "tag": "#89Y82LGY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Wylie",
+          "tag": "#VLGRQPJ9P",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Randy/Berlin",
+          "tag": "#U8PUJPCC2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Leonuntius",
+          "tag": "#G9LU29G9L",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "FOLBANEX\u271d\ufe0f",
+          "tag": "#RL0PQUJY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Eviljimmi",
+          "tag": "#JP22CV282",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Ganond0rf",
+          "tag": "#2QCCRG8YU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Maki",
+          "tag": "#VL9YV89LJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "THEone29",
+          "tag": "#GCL9GRGYV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "cx",
+          "tag": "#C0GV9P9YR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "wafflez",
+          "tag": "#UVU9C00P9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "MADMAX PRINCE",
+          "tag": "#8Q2YYC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "AGT",
+          "tag": "#V89R9PRGR",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ChillzBeanie",
+          "tag": "#V9P8UJ22C",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "theBboi",
+          "tag": "#C2RGR8JCU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Reuben z",
+          "tag": "#UGYVPR9QJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "The Waviest",
+          "tag": "#RPJJJ8GC",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Pix3e",
+          "tag": "#UPJ99LYCY",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "RealPDawg",
+          "tag": "#2UQYJ9U0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "NOJJA\u201c",
+          "tag": "#2RVCV989J",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "HARAMBE",
+          "tag": "#8GVLJP2Q",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "wyt",
+          "tag": "#QR9QY2VVP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "kidnapper",
+          "tag": "#V2Q920RPJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Sulika",
+          "tag": "#UPU0GJPL9",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "jagger",
+          "tag": "#UPCJY0VL8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "pizzaguy11",
+          "tag": "#VYQUGJL2Y",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "hi",
+          "tag": "#2UYVPYL0U",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "TuffSammy",
+          "tag": "#VCRG9C8VL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Wesleymo",
+          "tag": "#20988QYLVL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "fouad",
+          "tag": "#V0L0JCP0Y",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "\u8981\u591a\u597d\u7c97\u5c31\u6709\u591a\u597d\u7c97",
+          "tag": "#2U8J0Q9RV",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Commander_Seitz",
+          "tag": "#CY2PUURC2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Jeremy",
+          "tag": "#C2QR2GLJU",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "sunbear1106",
+          "tag": "#V0GRVQRRQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "ThemApples",
+          "tag": "#UYCCP922G",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "The master",
+          "tag": "#UGU82CYJJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "elliot-_-",
+          "tag": "#VRPPUUL92",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Ravi",
+          "tag": "#VJR09RP92",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "CHRIST IS KING",
+          "tag": "#L8L0CVRJ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "dtroyt",
+          "tag": "#LYC9CJU9U",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Larry",
+          "tag": "#20GCCJPPP2",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Lucid Blaze",
+          "tag": "#GYP0CP8JL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Kiri.orthodox",
+          "tag": "#GC2UC2PG8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "WhyYouSoMad",
+          "tag": "#VRRPCYUG8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "randy/Berlin",
+          "tag": "#VJCR8U9R0",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Jastt",
+          "tag": "#20LYUGRRJP",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "idroppedski",
+          "tag": "#20JPQPLUYL",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "<c6>Zee",
+          "tag": "#VP2QCLQG8",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Speedster7816",
+          "tag": "#20QV8QGC2P",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Goblin King",
+          "tag": "#20VP8P2UQ",
+          "fame": 0,
+          "decksUsed": 0
+        },
+        {
+          "name": "Jvoll76248",
+          "tag": "#V8JRQC0YL",
+          "fame": 150,
+          "decksUsed": 2
+        },
+        {
+          "name": "Bradley",
+          "tag": "#8Y999PVJ",
+          "fame": 200,
+          "decksUsed": 2
+        },
+        {
+          "name": "AYDEN 9",
+          "tag": "#2C0P8JLY0",
+          "fame": 200,
+          "decksUsed": 1
+        },
+        {
+          "name": "king",
+          "tag": "#VYYJRUGL9",
+          "fame": 300,
+          "decksUsed": 2
+        },
+        {
+          "name": "franco",
+          "tag": "#9CV0YUPYL",
+          "fame": 700,
+          "decksUsed": 4
+        },
+        {
+          "name": "Kevn.10",
+          "tag": "#2C9YJ9QJ",
+          "fame": 700,
+          "decksUsed": 8
+        },
+        {
+          "name": "Psalm 135",
+          "tag": "#CCL022GP0",
+          "fame": 1300,
+          "decksUsed": 8
+        },
+        {
+          "name": "joey",
+          "tag": "#GC2VY2LYQ",
+          "fame": 1500,
+          "decksUsed": 8
+        },
+        {
+          "name": "couboy8",
+          "tag": "#L9GVPCPY",
+          "fame": 1600,
+          "decksUsed": 14
+        },
+        {
+          "name": "Papa",
+          "tag": "#VG0JVCCPQ",
+          "fame": 1600,
+          "decksUsed": 16
+        },
+        {
+          "name": "rufus",
+          "tag": "#8UUCPQQVQ",
+          "fame": 1650,
+          "decksUsed": 13
+        },
+        {
+          "name": "tym04",
+          "tag": "#20YY9UY2UJ",
+          "fame": 1800,
+          "decksUsed": 12
+        },
+        {
+          "name": "Neil",
+          "tag": "#LYULVQC0Q",
+          "fame": 2000,
+          "decksUsed": 11
+        },
+        {
+          "name": "Dalton",
+          "tag": "#9CPVYRVRQ",
+          "fame": 2400,
+          "decksUsed": 16
+        },
+        {
+          "name": "Sir Jayman",
+          "tag": "#92QY2YYJ",
+          "fame": 2600,
+          "decksUsed": 16
+        },
+        {
+          "name": "~BOOMER~",
+          "tag": "#VP88C0VQ",
+          "fame": 2625,
+          "decksUsed": 16
+        }
+      ]
+    }
+  ]
 }
