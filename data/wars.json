@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T08:35:27Z",
+  "updated": "2026-08-05T14:08:30Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -186,6 +186,13 @@
       "isNew": false
     },
     {
+      "name": "JF",
+      "tag": "#VJUYCLP",
+      "trophies1": 2400,
+      "trophies2": 2925,
+      "isNew": false
+    },
+    {
       "name": "Ya Mahdi (\u0639)",
       "tag": "#JRU9U20RV",
       "trophies1": 0,
@@ -193,10 +200,10 @@
       "isNew": false
     },
     {
-      "name": "JF",
-      "tag": "#VJUYCLP",
-      "trophies1": 2400,
-      "trophies2": 2925,
+      "name": "Bandango",
+      "tag": "#98R2LGQRV",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -210,13 +217,6 @@
       "name": "eThAn",
       "tag": "#P289LP08Q",
       "trophies1": 800,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Bandango",
-      "tag": "#98R2LGQRV",
-      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
