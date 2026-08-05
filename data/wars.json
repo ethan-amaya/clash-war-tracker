@@ -1,15 +1,8 @@
 {
-  "updated": "2026-08-05T14:08:30Z",
+  "updated": "2026-08-05T19:29:22Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "LeChungus25",
       "tag": "#G8VV98LLQ",
@@ -18,10 +11,10 @@
       "isNew": false
     },
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2200,
-      "trophies2": 1300,
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -29,6 +22,13 @@
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2200,
+      "trophies2": 1300,
       "isNew": false
     },
     {
@@ -62,13 +62,6 @@
     {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "RazeNBlaze420",
-      "tag": "#YRQJ0VGV2",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -109,13 +102,6 @@
       "isNew": false
     },
     {
-      "name": "Morlyn71",
-      "tag": "#899GU20YC",
-      "trophies1": 1400,
-      "trophies2": 600,
-      "isNew": false
-    },
-    {
       "name": "LAVARBALL",
       "tag": "#8Y80PVC0U",
       "trophies1": 2200,
@@ -123,10 +109,10 @@
       "isNew": false
     },
     {
-      "name": "michael",
-      "tag": "#UPYYQVCP0",
-      "trophies1": 1100,
-      "trophies2": 900,
+      "name": "Morlyn71",
+      "tag": "#899GU20YC",
+      "trophies1": 1400,
+      "trophies2": 600,
       "isNew": false
     },
     {
@@ -134,6 +120,13 @@
       "tag": "#YCQCR80YG",
       "trophies1": 1250,
       "trophies2": 700,
+      "isNew": false
+    },
+    {
+      "name": "michael",
+      "tag": "#UPYYQVCP0",
+      "trophies1": 1100,
+      "trophies2": 900,
       "isNew": false
     },
     {
