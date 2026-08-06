@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T19:29:22Z",
+  "updated": "2026-08-06T02:32:09Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -18,17 +18,17 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
       "trophies1": 2200,
       "trophies2": 1300,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -102,17 +102,17 @@
       "isNew": false
     },
     {
-      "name": "LAVARBALL",
-      "tag": "#8Y80PVC0U",
-      "trophies1": 2200,
-      "trophies2": 1850,
-      "isNew": false
-    },
-    {
       "name": "Morlyn71",
       "tag": "#899GU20YC",
       "trophies1": 1400,
       "trophies2": 600,
+      "isNew": false
+    },
+    {
+      "name": "LAVARBALL",
+      "tag": "#8Y80PVC0U",
+      "trophies1": 2200,
+      "trophies2": 1850,
       "isNew": false
     },
     {
@@ -284,17 +284,17 @@
       "isNew": false
     },
     {
-      "name": "MoyaMoya",
-      "tag": "#20GQ9U9R0L",
-      "trophies1": 2300,
-      "trophies2": 2500,
-      "isNew": false
-    },
-    {
       "name": "WetCatFood",
       "tag": "#8RLUG2G9Y",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "MoyaMoya",
+      "tag": "#20GQ9U9R0L",
+      "trophies1": 2300,
+      "trophies2": 2500,
       "isNew": false
     },
     {
