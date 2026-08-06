@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-06T08:35:38Z",
+  "updated": "2026-08-06T14:08:13Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "LeChungus25",
-      "tag": "#G8VV98LLQ",
-      "trophies1": 400,
-      "trophies2": 1900,
-      "isNew": false
-    },
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "LeChungus25",
+      "tag": "#G8VV98LLQ",
+      "trophies1": 400,
+      "trophies2": 1900,
       "isNew": false
     },
     {
