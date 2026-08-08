@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T12:46:42Z",
+  "updated": "2026-08-08T18:36:28Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -130,6 +130,13 @@
       "isNew": false
     },
     {
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "rebel",
       "tag": "#VGP9QCG09",
       "trophies1": 0,
@@ -141,13 +148,6 @@
       "tag": "#209Q0YUP",
       "trophies1": 2400,
       "trophies2": 1900,
-      "isNew": false
-    },
-    {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
