@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T18:55:58Z",
+  "updated": "2026-08-08T01:37:38Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -116,17 +116,17 @@
       "isNew": false
     },
     {
-      "name": "michael",
-      "tag": "#UPYYQVCP0",
-      "trophies1": 1100,
-      "trophies2": 900,
-      "isNew": false
-    },
-    {
       "name": "LAVARBALL",
       "tag": "#8Y80PVC0U",
       "trophies1": 2200,
       "trophies2": 1850,
+      "isNew": false
+    },
+    {
+      "name": "michael",
+      "tag": "#UPYYQVCP0",
+      "trophies1": 1100,
+      "trophies2": 900,
       "isNew": false
     },
     {
@@ -193,13 +193,6 @@
       "isNew": false
     },
     {
-      "name": "Bandango",
-      "tag": "#98R2LGQRV",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Moss",
       "tag": "#CGU9P9VG",
       "trophies1": 0,
@@ -210,6 +203,13 @@
       "name": "eThAn",
       "tag": "#P289LP08Q",
       "trophies1": 800,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Bandango",
+      "tag": "#98R2LGQRV",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
@@ -270,15 +270,15 @@
       "isNew": false
     },
     {
-      "name": "\u2665Bukket:3",
-      "tag": "#UYQGUV0UV",
+      "name": "Jazzydonut42",
+      "tag": "#9J28VQQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Jazzydonut42",
-      "tag": "#9J28VQQR",
+      "name": "\u2665Bukket:3",
+      "tag": "#UYQGUV0UV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
