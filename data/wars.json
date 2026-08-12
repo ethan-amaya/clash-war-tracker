@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-12T13:07:40Z",
+  "updated": "2026-08-12T19:01:40Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "LeChungus25",
-      "tag": "#G8VV98LLQ",
-      "trophies1": 1700,
-      "trophies2": 400,
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -18,10 +18,10 @@
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "LeChungus25",
+      "tag": "#G8VV98LLQ",
+      "trophies1": 1700,
+      "trophies2": 400,
       "isNew": false
     },
     {
@@ -32,17 +32,17 @@
       "isNew": false
     },
     {
-      "name": "RudderBuck",
-      "tag": "#LPG8RRJJJ",
-      "trophies1": 3300,
-      "trophies2": 800,
-      "isNew": false
-    },
-    {
       "name": "KG 34 7",
       "tag": "#2V8UYU0JJ",
       "trophies1": 2800,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "RudderBuck",
+      "tag": "#LPG8RRJJJ",
+      "trophies1": 3300,
+      "trophies2": 800,
       "isNew": false
     },
     {
@@ -74,6 +74,13 @@
       "isNew": false
     },
     {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "lew",
       "tag": "#YCQCR80YG",
       "trophies1": 1500,
@@ -95,13 +102,6 @@
       "isNew": false
     },
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Chuy ;]",
       "tag": "#LVLPGQ2LJ",
       "trophies1": 2500,
@@ -116,17 +116,17 @@
       "isNew": false
     },
     {
-      "name": "LAVARBALL",
-      "tag": "#8Y80PVC0U",
-      "trophies1": 1900,
-      "trophies2": 2200,
-      "isNew": false
-    },
-    {
       "name": "michael",
       "tag": "#UPYYQVCP0",
       "trophies1": 700,
       "trophies2": 1100,
+      "isNew": false
+    },
+    {
+      "name": "LAVARBALL",
+      "tag": "#8Y80PVC0U",
+      "trophies1": 1900,
+      "trophies2": 2200,
       "isNew": false
     },
     {
