@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T19:01:40Z",
+  "updated": "2026-08-12T01:54:51Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -32,6 +32,13 @@
       "isNew": false
     },
     {
+      "name": "RudderBuck",
+      "tag": "#LPG8RRJJJ",
+      "trophies1": 3300,
+      "trophies2": 800,
+      "isNew": false
+    },
+    {
       "name": "KG 34 7",
       "tag": "#2V8UYU0JJ",
       "trophies1": 2800,
@@ -43,13 +50,6 @@
       "tag": "#RURLYGQ2C",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "RudderBuck",
-      "tag": "#LPG8RRJJJ",
-      "trophies1": 3300,
-      "trophies2": 800,
       "isNew": false
     },
     {
@@ -102,13 +102,6 @@
       "isNew": false
     },
     {
-      "name": "LAVARBALL",
-      "tag": "#8Y80PVC0U",
-      "trophies1": 1900,
-      "trophies2": 2200,
-      "isNew": false
-    },
-    {
       "name": "Chuy ;]",
       "tag": "#LVLPGQ2LJ",
       "trophies1": 2500,
@@ -130,16 +123,16 @@
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
-      "trophies1": 300,
-      "trophies2": 0,
+      "name": "LAVARBALL",
+      "tag": "#8Y80PVC0U",
+      "trophies1": 1900,
+      "trophies2": 2200,
       "isNew": false
     },
     {
-      "name": "rebel",
-      "tag": "#VGP9QCG09",
-      "trophies1": 0,
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
+      "trophies1": 300,
       "trophies2": 0,
       "isNew": false
     },
@@ -148,6 +141,13 @@
       "tag": "#209Q0YUP",
       "trophies1": 2500,
       "trophies2": 2400,
+      "isNew": false
+    },
+    {
+      "name": "rebel",
+      "tag": "#VGP9QCG09",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -291,6 +291,13 @@
       "isNew": false
     },
     {
+      "name": "RaeLee",
+      "tag": "#20829CCJ0Q",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
+    },
+    {
       "name": "MoyaMoya",
       "tag": "#20GQ9U9R0L",
       "trophies1": 2400,
@@ -303,6 +310,13 @@
       "trophies1": 75,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "qu3enlilly",
+      "tag": "#UR90CGGPC",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     }
   ]
 }
