@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T01:56:55Z",
+  "updated": "2026-08-13T07:25:54Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -74,17 +74,17 @@
       "isNew": false
     },
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "lew",
       "tag": "#YCQCR80YG",
       "trophies1": 1500,
       "trophies2": 1250,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
