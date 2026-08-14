@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-13T19:02:14Z",
+  "updated": "2026-08-14T01:54:53Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "LeChungus25",
+      "tag": "#G8VV98LLQ",
+      "trophies1": 1700,
+      "trophies2": 400,
       "isNew": false
     },
     {
@@ -18,10 +18,10 @@
       "isNew": false
     },
     {
-      "name": "LeChungus25",
-      "tag": "#G8VV98LLQ",
-      "trophies1": 1700,
-      "trophies2": 400,
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -74,6 +74,13 @@
       "isNew": false
     },
     {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "lew",
       "tag": "#YCQCR80YG",
       "trophies1": 1500,
@@ -83,13 +90,6 @@
     {
       "name": "CatsAway!",
       "tag": "#GPLRVLRVJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -293,6 +293,13 @@
     {
       "name": "RaeLee",
       "tag": "#20829CCJ0Q",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
+    },
+    {
+      "name": "thee",
+      "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
