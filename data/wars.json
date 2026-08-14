@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T13:05:04Z",
+  "updated": "2026-08-14T18:53:09Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -65,6 +65,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Kaiyol",
+      "tag": "#9YJLJ9UC",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "Bread",
