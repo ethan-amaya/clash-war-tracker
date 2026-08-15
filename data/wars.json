@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-15T12:35:59Z",
+  "updated": "2026-08-15T18:28:55Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -18,8 +18,8 @@
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -123,18 +123,18 @@
       "isNew": false
     },
     {
-      "name": "\u00c7\u0126\u0158\u00ce\u015a \u0126\u00c0\u00d1\u015a\u00d8\u00d1",
-      "tag": "#22VRJGQU0",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "LAVARBALL",
       "tag": "#8Y80PVC0U",
       "trophies1": 1900,
       "trophies2": 2200,
       "isNew": false
+    },
+    {
+      "name": "\u00c7\u0126\u0158\u00ce\u015a \u0126\u00c0\u00d1\u015a\u00d8\u00d1",
+      "tag": "#22VRJGQU0",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "michael",
