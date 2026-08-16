@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-16T01:16:42Z",
+  "updated": "2026-08-16T06:38:46Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "LeChungus25",
-      "tag": "#G8VV98LLQ",
-      "trophies1": 1700,
-      "trophies2": 400,
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -18,10 +18,10 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "LeChungus25",
+      "tag": "#G8VV98LLQ",
+      "trophies1": 1700,
+      "trophies2": 400,
       "isNew": false
     },
     {
@@ -81,6 +81,13 @@
       "isNew": false
     },
     {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 2500,
+      "trophies2": 1400,
+      "isNew": false
+    },
+    {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
       "trophies1": 0,
@@ -106,13 +113,6 @@
       "tag": "#2VRPJJLQ",
       "trophies1": 2400,
       "trophies2": 2150,
-      "isNew": false
-    },
-    {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 2500,
-      "trophies2": 1400,
       "isNew": false
     },
     {
@@ -172,17 +172,17 @@
       "isNew": false
     },
     {
-      "name": "JF",
-      "tag": "#VJUYCLP",
-      "trophies1": 1300,
-      "trophies2": 2400,
-      "isNew": false
-    },
-    {
       "name": "<c9>MustMees",
       "tag": "#GJLQVJPLU",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "JF",
+      "tag": "#VJUYCLP",
+      "trophies1": 1300,
+      "trophies2": 2400,
       "isNew": false
     },
     {
@@ -305,15 +305,15 @@
       "isNew": false
     },
     {
-      "name": "RaeLee",
-      "tag": "#20829CCJ0Q",
+      "name": "thee",
+      "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
     },
     {
-      "name": "thee",
-      "tag": "#9UL8JCLUV",
+      "name": "RaeLee",
+      "tag": "#20829CCJ0Q",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
