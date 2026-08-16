@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-16T06:38:46Z",
+  "updated": "2026-08-16T12:37:23Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -74,6 +74,13 @@
       "isNew": true
     },
     {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "Bread",
       "tag": "#VC9QYYLYG",
       "trophies1": 300,
@@ -85,13 +92,6 @@
       "tag": "#LVLPGQ2LJ",
       "trophies1": 2500,
       "trophies2": 1400,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -158,17 +158,17 @@
       "isNew": false
     },
     {
-      "name": "DunadainKing",
-      "tag": "#209Q0YUP",
-      "trophies1": 2500,
-      "trophies2": 2400,
-      "isNew": false
-    },
-    {
       "name": "heywoah69",
       "tag": "#RYY2VQ9YJ",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "DunadainKing",
+      "tag": "#209Q0YUP",
+      "trophies1": 2500,
+      "trophies2": 2400,
       "isNew": false
     },
     {
