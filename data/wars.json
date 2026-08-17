@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-17T06:54:11Z",
+  "updated": "2026-08-17T12:41:50Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "LeChungus25",
-      "tag": "#G8VV98LLQ",
-      "trophies1": 1700,
-      "trophies2": 400,
-      "isNew": false
-    },
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "LeChungus25",
+      "tag": "#G8VV98LLQ",
+      "trophies1": 2400,
+      "trophies2": 1700,
       "isNew": false
     },
     {
@@ -27,42 +27,35 @@
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
-      "trophies1": 1300,
-      "trophies2": 2200,
+      "trophies1": 2750,
+      "trophies2": 1300,
       "isNew": false
     },
     {
       "name": "KG 34 7",
       "tag": "#2V8UYU0JJ",
-      "trophies1": 2800,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "RudderBuck",
-      "tag": "#LPG8RRJJJ",
-      "trophies1": 3300,
-      "trophies2": 800,
+      "trophies1": 1800,
+      "trophies2": 2800,
       "isNew": false
     },
     {
       "name": "N\u00fckmon",
       "tag": "#RURLYGQ2C",
-      "trophies1": 0,
+      "trophies1": 900,
       "trophies2": 0,
       "isNew": false
     },
     {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
-      "trophies1": 0,
+      "trophies1": 1500,
       "trophies2": 0,
       "isNew": false
     },
     {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
-      "trophies1": 0,
+      "trophies1": 300,
       "trophies2": 0,
       "isNew": false
     },
@@ -83,22 +76,22 @@
     {
       "name": "Bread",
       "tag": "#VC9QYYLYG",
-      "trophies1": 300,
-      "trophies2": 200,
+      "trophies1": 0,
+      "trophies2": 300,
       "isNew": false
     },
     {
       "name": "Chuy ;]",
       "tag": "#LVLPGQ2LJ",
-      "trophies1": 2500,
-      "trophies2": 1400,
+      "trophies1": 1850,
+      "trophies2": 2500,
       "isNew": false
     },
     {
       "name": "lew",
       "tag": "#YCQCR80YG",
-      "trophies1": 1500,
-      "trophies2": 1250,
+      "trophies1": 700,
+      "trophies2": 1500,
       "isNew": false
     },
     {
@@ -111,22 +104,22 @@
     {
       "name": "genos",
       "tag": "#2VRPJJLQ",
-      "trophies1": 2400,
-      "trophies2": 2150,
+      "trophies1": 2200,
+      "trophies2": 2400,
       "isNew": false
     },
     {
       "name": "Morlyn71",
       "tag": "#899GU20YC",
-      "trophies1": 1500,
-      "trophies2": 1400,
+      "trophies1": 2000,
+      "trophies2": 1500,
       "isNew": false
     },
     {
       "name": "LAVARBALL",
       "tag": "#8Y80PVC0U",
-      "trophies1": 1900,
-      "trophies2": 2200,
+      "trophies1": 2650,
+      "trophies2": 1900,
       "isNew": false
     },
     {
@@ -139,8 +132,8 @@
     {
       "name": "michael",
       "tag": "#UPYYQVCP0",
-      "trophies1": 700,
-      "trophies2": 1100,
+      "trophies1": 900,
+      "trophies2": 700,
       "isNew": false
     },
     {
@@ -153,8 +146,8 @@
     {
       "name": "B\u00ears\u00eark",
       "tag": "#VU8VRUGQ",
-      "trophies1": 300,
-      "trophies2": 0,
+      "trophies1": 0,
+      "trophies2": 300,
       "isNew": false
     },
     {
@@ -167,15 +160,15 @@
     {
       "name": "heywoah69",
       "tag": "#RYY2VQ9YJ",
-      "trophies1": 0,
+      "trophies1": 100,
       "trophies2": 0,
       "isNew": false
     },
     {
       "name": "DunadainKing",
       "tag": "#209Q0YUP",
-      "trophies1": 2500,
-      "trophies2": 2400,
+      "trophies1": 2000,
+      "trophies2": 2500,
       "isNew": false
     },
     {
@@ -195,8 +188,8 @@
     {
       "name": "dickie",
       "tag": "#UVR000YR9",
-      "trophies1": 2650,
-      "trophies2": 2350,
+      "trophies1": 2375,
+      "trophies2": 2650,
       "isNew": false
     },
     {
@@ -209,15 +202,15 @@
     {
       "name": "eThAn",
       "tag": "#P289LP08Q",
-      "trophies1": 1300,
-      "trophies2": 800,
+      "trophies1": 1000,
+      "trophies2": 1300,
       "isNew": false
     },
     {
       "name": "Moss",
       "tag": "#CGU9P9VG",
-      "trophies1": 800,
-      "trophies2": 0,
+      "trophies1": 0,
+      "trophies2": 800,
       "isNew": false
     },
     {
@@ -244,7 +237,7 @@
     {
       "name": "Black_Mexican",
       "tag": "#29YR90U0J",
-      "trophies1": 0,
+      "trophies1": 200,
       "trophies2": 0,
       "isNew": false
     },
@@ -252,14 +245,14 @@
       "name": "wezzy",
       "tag": "#U80UCYG98",
       "trophies1": 525,
-      "trophies2": 0,
+      "trophies2": 525,
       "isNew": false
     },
     {
       "name": "will-easy",
       "tag": "#Q982YGYU",
-      "trophies1": 1900,
-      "trophies2": 1600,
+      "trophies1": 2100,
+      "trophies2": 1900,
       "isNew": false
     },
     {
@@ -272,8 +265,8 @@
     {
       "name": "UltimatePotato",
       "tag": "#VPP2922CJ",
-      "trophies1": 1800,
-      "trophies2": 2600,
+      "trophies1": 0,
+      "trophies2": 1800,
       "isNew": false
     },
     {
@@ -321,15 +314,15 @@
     {
       "name": "MoyaMoya",
       "tag": "#20GQ9U9R0L",
-      "trophies1": 2400,
-      "trophies2": 2300,
+      "trophies1": 2700,
+      "trophies2": 2400,
       "isNew": false
     },
     {
       "name": "jay#1",
       "tag": "#2QQL88JLQ",
-      "trophies1": 75,
-      "trophies2": 0,
+      "trophies1": 325,
+      "trophies2": 75,
       "isNew": false
     },
     {
