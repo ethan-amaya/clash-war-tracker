@@ -1,8 +1,15 @@
 {
-  "updated": "2026-08-17T01:13:50Z",
+  "updated": "2026-08-17T06:54:11Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "LeChungus25",
+      "tag": "#G8VV98LLQ",
+      "trophies1": 1700,
+      "trophies2": 400,
+      "isNew": false
+    },
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
@@ -15,13 +22,6 @@
       "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "LeChungus25",
-      "tag": "#G8VV98LLQ",
-      "trophies1": 1700,
-      "trophies2": 400,
       "isNew": false
     },
     {
@@ -144,18 +144,18 @@
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
-      "trophies1": 300,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "BananaKingv2",
       "tag": "#2UYPJ29VV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
+    },
+    {
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
+      "trophies1": 300,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "rebel",
