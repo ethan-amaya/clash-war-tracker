@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T01:11:43Z",
+  "updated": "2026-08-18T06:41:26Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -11,15 +11,15 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -263,6 +263,13 @@
       "isNew": false
     },
     {
+      "name": "thee",
+      "tag": "#9UL8JCLUV",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
+    },
+    {
       "name": "UltimatePotato",
       "tag": "#VPP2922CJ",
       "trophies1": 0,
@@ -275,13 +282,6 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
-    },
-    {
-      "name": "thee",
-      "tag": "#9UL8JCLUV",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
     },
     {
       "name": "\u2665Bukket:3",
