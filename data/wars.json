@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T12:45:19Z",
+  "updated": "2026-08-19T18:34:40Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -102,13 +102,6 @@
       "isNew": false
     },
     {
-      "name": "LAVARBALL",
-      "tag": "#8Y80PVC0U",
-      "trophies1": 2650,
-      "trophies2": 1900,
-      "isNew": false
-    },
-    {
       "name": "Morlyn71",
       "tag": "#899GU20YC",
       "trophies1": 2000,
@@ -130,6 +123,13 @@
       "isNew": false
     },
     {
+      "name": "rebel",
+      "tag": "#VGP9QCG09",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "B\u00ears\u00eark",
       "tag": "#VU8VRUGQ",
       "trophies1": 0,
@@ -144,24 +144,10 @@
       "isNew": true
     },
     {
-      "name": "rebel",
-      "tag": "#VGP9QCG09",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "heywoah69",
       "tag": "#RYY2VQ9YJ",
       "trophies1": 100,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "DunadainKing",
-      "tag": "#209Q0YUP",
-      "trophies1": 2000,
-      "trophies2": 2500,
       "isNew": false
     },
     {
@@ -268,6 +254,13 @@
       "trophies1": 2700,
       "trophies2": 2400,
       "isNew": false
+    },
+    {
+      "name": "david",
+      "tag": "#88V98QQCG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "jay#1",
