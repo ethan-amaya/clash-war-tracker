@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-18T18:37:29Z",
+  "updated": "2026-08-19T01:12:49Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "LeChungus25",
       "tag": "#G8VV98LLQ",
       "trophies1": 2400,
       "trophies2": 1700,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -81,13 +81,6 @@
       "isNew": false
     },
     {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 1850,
-      "trophies2": 2500,
-      "isNew": false
-    },
-    {
       "name": "lew",
       "tag": "#YCQCR80YG",
       "trophies1": 700,
@@ -106,6 +99,13 @@
       "tag": "#2VRPJJLQ",
       "trophies1": 2200,
       "trophies2": 2400,
+      "isNew": false
+    },
+    {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 1850,
+      "trophies2": 2500,
       "isNew": false
     },
     {
@@ -137,18 +137,18 @@
       "isNew": false
     },
     {
-      "name": "BananaKingv2",
-      "tag": "#2UYPJ29VV",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "B\u00ears\u00eark",
       "tag": "#VU8VRUGQ",
       "trophies1": 0,
       "trophies2": 300,
       "isNew": false
+    },
+    {
+      "name": "BananaKingv2",
+      "tag": "#2UYPJ29VV",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "rebel",
