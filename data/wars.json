@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T01:16:03Z",
+  "updated": "2026-08-21T06:45:02Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -11,17 +11,17 @@
       "isNew": false
     },
     {
-      "name": "LeChungus25",
-      "tag": "#G8VV98LLQ",
-      "trophies1": 2400,
-      "trophies2": 1700,
-      "isNew": false
-    },
-    {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "LeChungus25",
+      "tag": "#G8VV98LLQ",
+      "trophies1": 2400,
+      "trophies2": 1700,
       "isNew": false
     },
     {
@@ -53,6 +53,13 @@
       "isNew": false
     },
     {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
       "trophies1": 300,
@@ -67,13 +74,6 @@
       "isNew": true
     },
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Bread",
       "tag": "#VC9QYYLYG",
       "trophies1": 0,
@@ -81,17 +81,17 @@
       "isNew": false
     },
     {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 1850,
-      "trophies2": 2500,
-      "isNew": false
-    },
-    {
       "name": "lew",
       "tag": "#YCQCR80YG",
       "trophies1": 700,
       "trophies2": 1500,
+      "isNew": false
+    },
+    {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 1850,
+      "trophies2": 2500,
       "isNew": false
     },
     {
