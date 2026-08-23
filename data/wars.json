@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T12:38:28Z",
+  "updated": "2026-08-23T18:28:18Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -60,18 +60,18 @@
       "isNew": false
     },
     {
-      "name": "jm.s561",
-      "tag": "#UVYU90GGJ",
-      "trophies1": 300,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Kaiyol",
       "tag": "#9YJLJ9UC",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
+    },
+    {
+      "name": "jm.s561",
+      "tag": "#UVYU90GGJ",
+      "trophies1": 300,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "Bread",
