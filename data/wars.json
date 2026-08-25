@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:45:22Z",
+  "updated": "2026-08-25T12:45:48Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -226,6 +226,13 @@
       "trophies1": 2500,
       "trophies2": 2700,
       "isNew": false
+    },
+    {
+      "name": "Erick",
+      "tag": "#GPPRCYJLR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "jay#1",
