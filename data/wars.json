@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T01:16:03Z",
+  "updated": "2026-08-26T06:48:23Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -246,7 +246,7 @@
       "tag": "#UR90CGGPC",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": true
+      "isNew": false
     }
   ]
 }
