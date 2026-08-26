@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:38:24Z",
+  "updated": "2026-08-26T01:16:03Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -53,18 +53,18 @@
       "isNew": false
     },
     {
-      "name": "Kaiyol",
-      "tag": "#9YJLJ9UC",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
       "trophies1": 200,
       "trophies2": 300,
       "isNew": false
+    },
+    {
+      "name": "Kaiyol",
+      "tag": "#9YJLJ9UC",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "Bread",
@@ -165,17 +165,17 @@
       "isNew": false
     },
     {
-      "name": "Black_Mexican",
-      "tag": "#29YR90U0J",
-      "trophies1": 0,
-      "trophies2": 200,
-      "isNew": false
-    },
-    {
       "name": "wezzy",
       "tag": "#U80UCYG98",
       "trophies1": 0,
       "trophies2": 525,
+      "isNew": false
+    },
+    {
+      "name": "Black_Mexican",
+      "tag": "#29YR90U0J",
+      "trophies1": 0,
+      "trophies2": 200,
       "isNew": false
     },
     {
