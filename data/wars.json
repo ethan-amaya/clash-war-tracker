@@ -1,15 +1,8 @@
 {
-  "updated": "2026-08-26T19:46:37Z",
+  "updated": "2026-08-27T07:47:13Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "LeChungus25",
       "tag": "#G8VV98LLQ",
@@ -20,6 +13,13 @@
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -186,18 +186,18 @@
       "isNew": false
     },
     {
-      "name": "BigJigglyDog",
-      "tag": "#8VPQQ2JC8",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "thee",
       "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
+    },
+    {
+      "name": "BigJigglyDog",
+      "tag": "#8VPQQ2JC8",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "UltimatePotato",
