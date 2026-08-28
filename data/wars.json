@@ -1,25 +1,18 @@
 {
-  "updated": "2026-08-28T09:51:47Z",
+  "updated": "2026-08-28T21:44:57Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "LeChungus25",
-      "tag": "#G8VV98LLQ",
-      "trophies1": 2400,
-      "trophies2": 2400,
-      "isNew": true
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -64,7 +57,7 @@
       "tag": "#9YJLJ9UC",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Bread",
@@ -158,6 +151,13 @@
       "isNew": false
     },
     {
+      "name": "thee",
+      "tag": "#9UL8JCLUV",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "PB_DINO3",
       "tag": "#CGY8J9RGV",
       "trophies1": 0,
@@ -183,13 +183,6 @@
       "tag": "#Q982YGYU",
       "trophies1": 2400,
       "trophies2": 2100,
-      "isNew": false
-    },
-    {
-      "name": "thee",
-      "tag": "#9UL8JCLUV",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
