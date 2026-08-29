@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-29T05:51:49Z",
+  "updated": "2026-08-29T12:23:05Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -123,6 +123,13 @@
       "isNew": false
     },
     {
+      "name": "Ya Mahdi (\u0639)",
+      "tag": "#JRU9U20RV",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
+    },
+    {
       "name": "eThAn",
       "tag": "#P289LP08Q",
       "trophies1": 1100,
@@ -205,6 +212,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "MoyaMoya",
