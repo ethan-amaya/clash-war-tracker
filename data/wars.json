@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T20:38:32Z",
+  "updated": "2026-08-31T03:58:37Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -109,17 +109,17 @@
       "isNew": false
     },
     {
-      "name": "BananaKingv2",
-      "tag": "#2UYPJ29VV",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "heywoah69",
       "tag": "#RYY2VQ9YJ",
       "trophies1": 0,
       "trophies2": 100,
+      "isNew": false
+    },
+    {
+      "name": "BananaKingv2",
+      "tag": "#2UYPJ29VV",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
