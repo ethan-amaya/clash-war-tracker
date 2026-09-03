@@ -1,15 +1,8 @@
 {
-  "updated": "2026-09-03T15:52:28Z",
+  "updated": "2026-09-03T20:33:58Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
@@ -22,6 +15,13 @@
       "tag": "#PJJJGYU",
       "trophies1": 1950,
       "trophies2": 1350,
+      "isNew": false
+    },
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
