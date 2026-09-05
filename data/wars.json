@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-05T14:41:17Z",
+  "updated": "2026-09-05T19:58:52Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
@@ -15,13 +22,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 1950,
       "trophies2": 1350,
-      "isNew": false
-    },
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -74,18 +74,18 @@
       "isNew": false
     },
     {
-      "name": "SHlZDASAUCEGOD",
-      "tag": "#PQ28CJPCG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "Morlyn71",
       "tag": "#899GU20YC",
       "trophies1": 2000,
       "trophies2": 1700,
       "isNew": false
+    },
+    {
+      "name": "SHlZDASAUCEGOD",
+      "tag": "#PQ28CJPCG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "lew",
@@ -137,17 +137,17 @@
       "isNew": true
     },
     {
-      "name": "eThAn",
-      "tag": "#P289LP08Q",
-      "trophies1": 0,
-      "trophies2": 1100,
-      "isNew": false
-    },
-    {
       "name": "thee",
       "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "eThAn",
+      "tag": "#P289LP08Q",
+      "trophies1": 0,
+      "trophies2": 1100,
       "isNew": false
     },
     {
@@ -221,18 +221,18 @@
       "isNew": false
     },
     {
-      "name": "X-THE BARBER",
-      "tag": "#PLJYYV0R0",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "MoyaMoya",
       "tag": "#20GQ9U9R0L",
       "trophies1": 2300,
       "trophies2": 2500,
       "isNew": false
+    },
+    {
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "Erick",
