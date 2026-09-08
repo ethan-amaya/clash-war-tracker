@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-07T21:10:15Z",
+  "updated": "2026-09-08T03:18:43Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2850,
-      "trophies2": 1950,
-      "isNew": false
-    },
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2850,
+      "trophies2": 1950,
       "isNew": false
     },
     {
@@ -165,15 +165,15 @@
       "isNew": false
     },
     {
-      "name": "PB_DINO3",
-      "tag": "#CGY8J9RGV",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "will-easy",
+      "tag": "#Q982YGYU",
+      "trophies1": 2200,
+      "trophies2": 2100,
       "isNew": false
     },
     {
-      "name": "Black_Mexican",
-      "tag": "#29YR90U0J",
+      "name": "PB_DINO3",
+      "tag": "#CGY8J9RGV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -186,10 +186,10 @@
       "isNew": false
     },
     {
-      "name": "will-easy",
-      "tag": "#Q982YGYU",
-      "trophies1": 2200,
-      "trophies2": 2100,
+      "name": "Black_Mexican",
+      "tag": "#29YR90U0J",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
