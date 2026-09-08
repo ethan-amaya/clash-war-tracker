@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-08T03:18:43Z",
+  "updated": "2026-09-08T10:41:25Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
       "trophies1": 2850,
       "trophies2": 1950,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -25,17 +25,17 @@
       "isNew": false
     },
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 100,
-      "trophies2": 200,
-      "isNew": false
-    },
-    {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 100,
+      "trophies2": 200,
       "isNew": false
     },
     {
@@ -67,17 +67,17 @@
       "isNew": false
     },
     {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 800,
-      "trophies2": 1700,
-      "isNew": false
-    },
-    {
       "name": "BananaKingv2",
       "tag": "#2UYPJ29VV",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 800,
+      "trophies2": 1700,
       "isNew": false
     },
     {
@@ -179,17 +179,17 @@
       "isNew": false
     },
     {
-      "name": "wezzy",
-      "tag": "#U80UCYG98",
-      "trophies1": 0,
-      "trophies2": 475,
-      "isNew": false
-    },
-    {
       "name": "Black_Mexican",
       "tag": "#29YR90U0J",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "wezzy",
+      "tag": "#U80UCYG98",
+      "trophies1": 0,
+      "trophies2": 475,
       "isNew": false
     },
     {
