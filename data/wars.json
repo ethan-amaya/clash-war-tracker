@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-09T16:00:02Z",
+  "updated": "2026-09-09T20:30:52Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
@@ -13,13 +20,6 @@
     {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -67,13 +67,6 @@
       "isNew": false
     },
     {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 800,
-      "trophies2": 1700,
-      "isNew": false
-    },
-    {
       "name": "BananaKingv2",
       "tag": "#2UYPJ29VV",
       "trophies1": 0,
@@ -81,10 +74,10 @@
       "isNew": false
     },
     {
-      "name": "Morlyn71",
-      "tag": "#899GU20YC",
-      "trophies1": 2100,
-      "trophies2": 2000,
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 800,
+      "trophies2": 1700,
       "isNew": false
     },
     {
@@ -92,6 +85,13 @@
       "tag": "#YCQCR80YG",
       "trophies1": 0,
       "trophies2": 800,
+      "isNew": false
+    },
+    {
+      "name": "Morlyn71",
+      "tag": "#899GU20YC",
+      "trophies1": 2100,
+      "trophies2": 2000,
       "isNew": false
     },
     {
@@ -130,18 +130,18 @@
       "isNew": false
     },
     {
-      "name": "Ya Mahdi (\u0639)",
-      "tag": "#JRU9U20RV",
-      "trophies1": 0,
-      "trophies2": 800,
-      "isNew": true
-    },
-    {
       "name": "thee",
       "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Ya Mahdi (\u0639)",
+      "tag": "#JRU9U20RV",
+      "trophies1": 0,
+      "trophies2": 800,
+      "isNew": true
     },
     {
       "name": "eThAn",
@@ -151,17 +151,17 @@
       "isNew": false
     },
     {
-      "name": "Moss",
-      "tag": "#CGU9P9VG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "will-easy",
       "tag": "#Q982YGYU",
       "trophies1": 2200,
       "trophies2": 2100,
+      "isNew": false
+    },
+    {
+      "name": "Moss",
+      "tag": "#CGU9P9VG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
