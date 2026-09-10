@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-10T10:44:10Z",
+  "updated": "2026-09-10T15:54:50Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2850,
+      "trophies2": 1950,
       "isNew": false
     },
     {
@@ -18,10 +18,10 @@
       "isNew": false
     },
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2850,
-      "trophies2": 1950,
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -130,18 +130,18 @@
       "isNew": false
     },
     {
-      "name": "Ya Mahdi (\u0639)",
-      "tag": "#JRU9U20RV",
-      "trophies1": 0,
-      "trophies2": 800,
-      "isNew": true
-    },
-    {
       "name": "thee",
       "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Ya Mahdi (\u0639)",
+      "tag": "#JRU9U20RV",
+      "trophies1": 0,
+      "trophies2": 800,
+      "isNew": true
     },
     {
       "name": "will-easy",
