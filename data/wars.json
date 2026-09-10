@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-10T03:20:35Z",
+  "updated": "2026-09-10T10:44:10Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
@@ -15,13 +22,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 2850,
       "trophies2": 1950,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -109,17 +109,17 @@
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "rebel",
       "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 200,
+      "isNew": false
+    },
+    {
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -130,18 +130,18 @@
       "isNew": false
     },
     {
-      "name": "thee",
-      "tag": "#9UL8JCLUV",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Ya Mahdi (\u0639)",
       "tag": "#JRU9U20RV",
       "trophies1": 0,
       "trophies2": 800,
       "isNew": true
+    },
+    {
+      "name": "thee",
+      "tag": "#9UL8JCLUV",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "will-easy",
