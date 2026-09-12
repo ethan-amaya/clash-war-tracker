@@ -1,13 +1,27 @@
 {
-  "updated": "2026-09-12T15:05:20Z",
+  "updated": "2026-09-12T20:14:39Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
       "trophies1": 2850,
       "trophies2": 1950,
+      "isNew": false
+    },
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 100,
+      "trophies2": 200,
       "isNew": false
     },
     {
@@ -18,24 +32,10 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 100,
-      "trophies2": 200,
       "isNew": false
     },
     {
@@ -88,18 +88,18 @@
       "isNew": false
     },
     {
-      "name": "lew",
-      "tag": "#YCQCR80YG",
-      "trophies1": 0,
-      "trophies2": 800,
-      "isNew": false
-    },
-    {
       "name": "SHlZDASAUCEGOD",
       "tag": "#PQ28CJPCG",
       "trophies1": 1200,
       "trophies2": 0,
       "isNew": true
+    },
+    {
+      "name": "lew",
+      "tag": "#YCQCR80YG",
+      "trophies1": 0,
+      "trophies2": 800,
+      "isNew": false
     },
     {
       "name": "michael",
