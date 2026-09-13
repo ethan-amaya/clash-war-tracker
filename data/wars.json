@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T11:10:43Z",
+  "updated": "2026-09-13T15:42:03Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -130,17 +130,17 @@
       "isNew": false
     },
     {
-      "name": "Ya Mahdi (\u0639)",
-      "tag": "#JRU9U20RV",
-      "trophies1": 0,
-      "trophies2": 800,
-      "isNew": false
-    },
-    {
       "name": "thee",
       "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Ya Mahdi (\u0639)",
+      "tag": "#JRU9U20RV",
+      "trophies1": 0,
+      "trophies2": 800,
       "isNew": false
     },
     {
