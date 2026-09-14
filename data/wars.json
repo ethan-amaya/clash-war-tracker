@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-13T20:23:49Z",
+  "updated": "2026-09-14T03:38:21Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 100,
+      "trophies2": 200,
+      "isNew": false
+    },
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
@@ -25,13 +32,6 @@
       "isNew": false
     },
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 100,
-      "trophies2": 200,
-      "isNew": false
-    },
-    {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
       "trophies1": 0,
@@ -46,15 +46,15 @@
       "isNew": false
     },
     {
-      "name": "Bread",
-      "tag": "#VC9QYYLYG",
+      "name": "jm.s561",
+      "tag": "#UVYU90GGJ",
       "trophies1": 0,
       "trophies2": 200,
       "isNew": false
     },
     {
-      "name": "jm.s561",
-      "tag": "#UVYU90GGJ",
+      "name": "Bread",
+      "tag": "#VC9QYYLYG",
       "trophies1": 0,
       "trophies2": 200,
       "isNew": false
@@ -67,17 +67,17 @@
       "isNew": false
     },
     {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 800,
-      "trophies2": 1700,
-      "isNew": false
-    },
-    {
       "name": "BananaKingv2",
       "tag": "#2UYPJ29VV",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 800,
+      "trophies2": 1700,
       "isNew": false
     },
     {
@@ -88,18 +88,18 @@
       "isNew": false
     },
     {
-      "name": "SHlZDASAUCEGOD",
-      "tag": "#PQ28CJPCG",
-      "trophies1": 1200,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "lew",
       "tag": "#YCQCR80YG",
       "trophies1": 0,
       "trophies2": 800,
       "isNew": false
+    },
+    {
+      "name": "SHlZDASAUCEGOD",
+      "tag": "#PQ28CJPCG",
+      "trophies1": 1200,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "michael",
