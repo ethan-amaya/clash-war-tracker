@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-15T11:12:32Z",
+  "updated": "2026-09-15T16:23:08Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 1400,
+      "trophies2": 100,
+      "isNew": false
+    },
     {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
@@ -15,13 +22,6 @@
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 1400,
-      "trophies2": 100,
       "isNew": false
     },
     {
