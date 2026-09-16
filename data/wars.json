@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T20:54:39Z",
+  "updated": "2026-09-16T03:36:06Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -8,13 +8,6 @@
       "tag": "#UYV8Q8CL0",
       "trophies1": 1400,
       "trophies2": 100,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -29,6 +22,13 @@
       "tag": "#PJJJGYU",
       "trophies1": 2650,
       "trophies2": 2850,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -74,17 +74,17 @@
       "isNew": false
     },
     {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 2000,
-      "trophies2": 800,
-      "isNew": false
-    },
-    {
       "name": "Morlyn71",
       "tag": "#899GU20YC",
       "trophies1": 1900,
       "trophies2": 2100,
+      "isNew": false
+    },
+    {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 2000,
+      "trophies2": 800,
       "isNew": false
     },
     {
@@ -186,15 +186,15 @@
       "isNew": false
     },
     {
-      "name": "Black_Mexican",
-      "tag": "#29YR90U0J",
+      "name": "wezzy",
+      "tag": "#U80UCYG98",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "wezzy",
-      "tag": "#U80UCYG98",
+      "name": "Black_Mexican",
+      "tag": "#29YR90U0J",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
