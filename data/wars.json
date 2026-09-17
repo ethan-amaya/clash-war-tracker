@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-17T16:21:10Z",
+  "updated": "2026-09-17T20:59:16Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
@@ -22,13 +29,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 2650,
       "trophies2": 2850,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -172,15 +172,15 @@
       "isNew": false
     },
     {
-      "name": "BigJigglyDog",
-      "tag": "#8VPQQ2JC8",
+      "name": "PB_DINO3",
+      "tag": "#CGY8J9RGV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "PB_DINO3",
-      "tag": "#CGY8J9RGV",
+      "name": "BigJigglyDog",
+      "tag": "#8VPQQ2JC8",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
