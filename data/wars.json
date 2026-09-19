@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T15:27:14Z",
+  "updated": "2026-09-19T20:07:38Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -137,17 +137,17 @@
       "isNew": false
     },
     {
-      "name": "Ya Mahdi (\u0639)",
-      "tag": "#JRU9U20RV",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "will-easy",
       "tag": "#Q982YGYU",
       "trophies1": 300,
       "trophies2": 2200,
+      "isNew": false
+    },
+    {
+      "name": "Ya Mahdi (\u0639)",
+      "tag": "#JRU9U20RV",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -261,6 +261,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "tacoluv3r",
+      "tag": "#CP8RYU8P2",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "gcc",
