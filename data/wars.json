@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-22T16:22:55Z",
+  "updated": "2026-09-22T20:56:31Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 0,
+      "trophies2": 1400,
+      "isNew": false
+    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
@@ -22,13 +29,6 @@
       "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 0,
-      "trophies2": 1400,
       "isNew": false
     },
     {
