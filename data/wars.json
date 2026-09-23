@@ -1,8 +1,22 @@
 {
-  "updated": "2026-09-23T10:52:19Z",
+  "updated": "2026-09-23T16:13:00Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 0,
+      "trophies2": 1400,
+      "isNew": false
+    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
@@ -18,22 +32,8 @@
       "isNew": false
     },
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 0,
-      "trophies2": 1400,
-      "isNew": false
-    },
-    {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -200,6 +200,13 @@
       "isNew": false
     },
     {
+      "name": "MoyaMoya",
+      "tag": "#20GQ9U9R0L",
+      "trophies1": 2600,
+      "trophies2": 2500,
+      "isNew": false
+    },
+    {
       "name": "UltimatePotato",
       "tag": "#VPP2922CJ",
       "trophies1": 0,
@@ -211,13 +218,6 @@
       "tag": "#YQCR2YVQU",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "MoyaMoya",
-      "tag": "#20GQ9U9R0L",
-      "trophies1": 2600,
-      "trophies2": 2500,
       "isNew": false
     },
     {
