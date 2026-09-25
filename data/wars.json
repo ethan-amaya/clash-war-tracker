@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-25T16:40:43Z",
+  "updated": "2026-09-25T21:08:55Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
       "trophies1": 2450,
       "trophies2": 2650,
+      "isNew": false
+    },
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -74,13 +74,6 @@
       "isNew": false
     },
     {
-      "name": "Morlyn71",
-      "tag": "#899GU20YC",
-      "trophies1": 2100,
-      "trophies2": 1900,
-      "isNew": false
-    },
-    {
       "name": "michael",
       "tag": "#UPYYQVCP0",
       "trophies1": 1200,
@@ -92,6 +85,13 @@
       "tag": "#LVLPGQ2LJ",
       "trophies1": 1750,
       "trophies2": 2000,
+      "isNew": false
+    },
+    {
+      "name": "Morlyn71",
+      "tag": "#899GU20YC",
+      "trophies1": 2100,
+      "trophies2": 1900,
       "isNew": false
     },
     {
@@ -109,15 +109,15 @@
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
+      "name": "rebel",
+      "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "rebel",
-      "tag": "#VGP9QCG09",
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -186,15 +186,15 @@
       "isNew": false
     },
     {
-      "name": "wezzy",
-      "tag": "#U80UCYG98",
+      "name": "BigJigglyDog",
+      "tag": "#8VPQQ2JC8",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "BigJigglyDog",
-      "tag": "#8VPQQ2JC8",
+      "name": "wezzy",
+      "tag": "#U80UCYG98",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
