@@ -1,8 +1,22 @@
 {
-  "updated": "2026-09-27T16:29:40Z",
+  "updated": "2026-09-27T20:57:21Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 0,
+      "trophies2": 1400,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
@@ -18,22 +32,8 @@
       "isNew": false
     },
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 0,
-      "trophies2": 1400,
-      "isNew": false
-    },
-    {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -165,15 +165,15 @@
       "isNew": false
     },
     {
-      "name": "King B",
-      "tag": "#G9GLJGCGP",
+      "name": "Black_Mexican",
+      "tag": "#29YR90U0J",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Black_Mexican",
-      "tag": "#29YR90U0J",
+      "name": "King B",
+      "tag": "#G9GLJGCGP",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
