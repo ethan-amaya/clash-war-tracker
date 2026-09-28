@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-27T20:57:21Z",
+  "updated": "2026-09-28T03:57:26Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
@@ -29,13 +36,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 2450,
       "trophies2": 2650,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -109,15 +109,15 @@
       "isNew": false
     },
     {
-      "name": "rebel",
-      "tag": "#VGP9QCG09",
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
+      "name": "rebel",
+      "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -254,6 +254,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Ares",
+      "tag": "#20GJ0Y9RL9",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "tacoluv3r",
