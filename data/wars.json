@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T22:58:22Z",
+  "updated": "2026-09-29T04:31:34Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -39,17 +39,17 @@
       "isNew": false
     },
     {
-      "name": "N\u00fckmon",
-      "tag": "#RURLYGQ2C",
-      "trophies1": 1500,
-      "trophies2": 2800,
-      "isNew": false
-    },
-    {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "N\u00fckmon",
+      "tag": "#RURLYGQ2C",
+      "trophies1": 1500,
+      "trophies2": 2800,
       "isNew": false
     },
     {
@@ -81,6 +81,13 @@
       "isNew": false
     },
     {
+      "name": "michael",
+      "tag": "#UPYYQVCP0",
+      "trophies1": 1700,
+      "trophies2": 1200,
+      "isNew": false
+    },
+    {
       "name": "SHlZDASAUCEGOD",
       "tag": "#PQ28CJPCG",
       "trophies1": 400,
@@ -92,13 +99,6 @@
       "tag": "#LVLPGQ2LJ",
       "trophies1": 2600,
       "trophies2": 1750,
-      "isNew": false
-    },
-    {
-      "name": "michael",
-      "tag": "#UPYYQVCP0",
-      "trophies1": 1700,
-      "trophies2": 1200,
       "isNew": false
     },
     {
