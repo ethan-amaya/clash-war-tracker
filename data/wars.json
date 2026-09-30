@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-30T04:15:01Z",
+  "updated": "2026-09-30T12:00:13Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 900,
-      "trophies2": 0,
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2450,
+      "trophies2": 2450,
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -25,16 +25,16 @@
       "isNew": false
     },
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2450,
-      "trophies2": 2450,
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 900,
       "trophies2": 0,
       "isNew": false
     },
@@ -74,6 +74,13 @@
       "isNew": false
     },
     {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 2600,
+      "trophies2": 1750,
+      "isNew": false
+    },
+    {
       "name": "Morlyn71",
       "tag": "#899GU20YC",
       "trophies1": 1600,
@@ -81,10 +88,10 @@
       "isNew": false
     },
     {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 2600,
-      "trophies2": 1750,
+      "name": "lew",
+      "tag": "#YCQCR80YG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -99,13 +106,6 @@
       "tag": "#UPYYQVCP0",
       "trophies1": 1700,
       "trophies2": 1200,
-      "isNew": false
-    },
-    {
-      "name": "lew",
-      "tag": "#YCQCR80YG",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
