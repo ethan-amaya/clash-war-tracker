@@ -1,22 +1,8 @@
 {
-  "updated": "2026-10-01T22:23:24Z",
+  "updated": "2026-10-02T04:19:38Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
@@ -28,6 +14,20 @@
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
       "trophies1": 900,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
@@ -88,6 +88,13 @@
       "isNew": false
     },
     {
+      "name": "michael",
+      "tag": "#UPYYQVCP0",
+      "trophies1": 1700,
+      "trophies2": 1200,
+      "isNew": false
+    },
+    {
       "name": "lew",
       "tag": "#YCQCR80YG",
       "trophies1": 0,
@@ -99,13 +106,6 @@
       "tag": "#PQ28CJPCG",
       "trophies1": 400,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "michael",
-      "tag": "#UPYYQVCP0",
-      "trophies1": 1700,
-      "trophies2": 1200,
       "isNew": false
     },
     {
@@ -179,13 +179,6 @@
       "isNew": false
     },
     {
-      "name": "MoyaMoya",
-      "tag": "#20GQ9U9R0L",
-      "trophies1": 2400,
-      "trophies2": 2600,
-      "isNew": false
-    },
-    {
       "name": "PB_DINO3",
       "tag": "#CGY8J9RGV",
       "trophies1": 0,
@@ -197,6 +190,13 @@
       "tag": "#U80UCYG98",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "MoyaMoya",
+      "tag": "#20GQ9U9R0L",
+      "trophies1": 2400,
+      "trophies2": 2600,
       "isNew": false
     },
     {
@@ -254,6 +254,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Gav Daddy",
+      "tag": "#UPCC0J8R",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "Ares",
