@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:50:59Z",
+  "updated": "2026-10-06T22:23:25Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -8,20 +8,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 2500,
       "trophies2": 2450,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -34,6 +20,20 @@
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -88,17 +88,17 @@
       "isNew": false
     },
     {
-      "name": "lew",
-      "tag": "#YCQCR80YG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "michael",
       "tag": "#UPYYQVCP0",
       "trophies1": 400,
       "trophies2": 1700,
+      "isNew": false
+    },
+    {
+      "name": "lew",
+      "tag": "#YCQCR80YG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
