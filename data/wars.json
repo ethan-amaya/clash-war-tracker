@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-05T23:47:29Z",
+  "updated": "2026-10-06T05:08:36Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 1300,
-      "trophies2": 900,
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2500,
+      "trophies2": 2450,
       "isNew": false
     },
     {
@@ -18,17 +18,17 @@
       "isNew": false
     },
     {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 1300,
+      "trophies2": 900,
+      "isNew": false
+    },
+    {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2500,
-      "trophies2": 2450,
       "isNew": false
     },
     {
@@ -53,15 +53,15 @@
       "isNew": false
     },
     {
-      "name": "Bread",
-      "tag": "#VC9QYYLYG",
+      "name": "Kaiyol",
+      "tag": "#9YJLJ9UC",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Kaiyol",
-      "tag": "#9YJLJ9UC",
+      "name": "Bread",
+      "tag": "#VC9QYYLYG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
