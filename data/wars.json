@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-08T04:46:10Z",
+  "updated": "2026-10-08T12:53:58Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -15,6 +15,13 @@
       "tag": "#PJJJGYU",
       "trophies1": 2500,
       "trophies2": 2450,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -32,13 +39,6 @@
       "isNew": false
     },
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
       "trophies1": 0,
@@ -53,6 +53,13 @@
       "isNew": false
     },
     {
+      "name": "BananaKingv2",
+      "tag": "#2UYPJ29VV",
+      "trophies1": 700,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "Kaiyol",
       "tag": "#9YJLJ9UC",
       "trophies1": 0,
@@ -63,13 +70,6 @@
       "name": "Bread",
       "tag": "#VC9QYYLYG",
       "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "BananaKingv2",
-      "tag": "#2UYPJ29VV",
-      "trophies1": 700,
       "trophies2": 0,
       "isNew": false
     },
