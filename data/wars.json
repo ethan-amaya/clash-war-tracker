@@ -1,25 +1,18 @@
 {
-  "updated": "2026-10-09T12:39:54Z",
+  "updated": "2026-10-09T22:20:04Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2500,
-      "trophies2": 2450,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -36,6 +29,13 @@
       "tag": "#UYV8Q8CL0",
       "trophies1": 1300,
       "trophies2": 900,
+      "isNew": false
+    },
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2500,
+      "trophies2": 2450,
       "isNew": false
     },
     {
