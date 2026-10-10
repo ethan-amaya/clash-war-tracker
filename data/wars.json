@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:17:02Z",
+  "updated": "2026-10-10T21:13:47Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -8,20 +8,6 @@
       "tag": "#UYV8Q8CL0",
       "trophies1": 1300,
       "trophies2": 900,
-      "isNew": false
-    },
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2500,
-      "trophies2": 2450,
       "isNew": false
     },
     {
@@ -36,6 +22,20 @@
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2500,
+      "trophies2": 2450,
       "isNew": false
     },
     {
@@ -172,17 +172,17 @@
       "isNew": false
     },
     {
-      "name": "King B",
-      "tag": "#G9GLJGCGP",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "MoyaMoya",
       "tag": "#20GQ9U9R0L",
       "trophies1": 1500,
       "trophies2": 2400,
+      "isNew": false
+    },
+    {
+      "name": "King B",
+      "tag": "#G9GLJGCGP",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -288,7 +288,7 @@
       "tag": "#VUGRLV2VG",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "gcc",
