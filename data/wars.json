@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T21:33:40Z",
+  "updated": "2026-10-12T04:35:51Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -18,6 +18,13 @@
       "isNew": false
     },
     {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 1300,
+      "trophies2": 900,
+      "isNew": false
+    },
+    {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
       "trophies1": 0,
@@ -29,13 +36,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 2500,
       "trophies2": 2450,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 1300,
-      "trophies2": 900,
       "isNew": false
     },
     {
@@ -88,6 +88,13 @@
       "isNew": true
     },
     {
+      "name": "rebel",
+      "tag": "#VGP9QCG09",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "michael",
       "tag": "#UPYYQVCP0",
       "trophies1": 400,
@@ -104,13 +111,6 @@
     {
       "name": "lew",
       "tag": "#YCQCR80YG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "rebel",
-      "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -274,7 +274,7 @@
       "tag": "#20GJ0Y9RL9",
       "trophies1": 450,
       "trophies2": 125,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "MrTortise54",
