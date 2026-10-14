@@ -1,22 +1,8 @@
 {
-  "updated": "2026-10-14T16:39:01Z",
+  "updated": "2026-10-14T21:19:10Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
@@ -25,8 +11,22 @@
       "isNew": false
     },
     {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -137,17 +137,17 @@
       "isNew": false
     },
     {
-      "name": "will-easy",
-      "tag": "#Q982YGYU",
-      "trophies1": 100,
-      "trophies2": 1400,
-      "isNew": false
-    },
-    {
       "name": "thee",
       "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "will-easy",
+      "tag": "#Q982YGYU",
+      "trophies1": 100,
+      "trophies2": 1400,
       "isNew": false
     },
     {
