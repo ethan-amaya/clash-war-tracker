@@ -1,15 +1,8 @@
 {
-  "updated": "2026-10-14T21:19:10Z",
+  "updated": "2026-10-15T03:26:42Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 2200,
-      "trophies2": 1300,
-      "isNew": false
-    },
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
@@ -22,6 +15,13 @@
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 2200,
+      "trophies2": 1300,
       "isNew": false
     },
     {
@@ -109,13 +109,6 @@
       "isNew": false
     },
     {
-      "name": "lew",
-      "tag": "#YCQCR80YG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "SHlZDASAUCEGOD",
       "tag": "#PQ28CJPCG",
       "trophies1": 0,
@@ -123,8 +116,8 @@
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
+      "name": "lew",
+      "tag": "#YCQCR80YG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -132,6 +125,13 @@
     {
       "name": "heywoah69",
       "tag": "#RYY2VQ9YJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
