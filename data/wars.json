@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-17T03:12:37Z",
+  "updated": "2026-10-17T10:13:40Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 2200,
-      "trophies2": 1300,
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2300,
+      "trophies2": 2500,
       "isNew": false
     },
     {
@@ -15,6 +15,13 @@
       "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 2200,
+      "trophies2": 1300,
       "isNew": false
     },
     {
@@ -32,13 +39,6 @@
       "isNew": false
     },
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2300,
-      "trophies2": 2500,
-      "isNew": false
-    },
-    {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
       "trophies1": 0,
@@ -53,15 +53,15 @@
       "isNew": false
     },
     {
-      "name": "Kaiyol",
-      "tag": "#9YJLJ9UC",
+      "name": "Bread",
+      "tag": "#VC9QYYLYG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Bread",
-      "tag": "#VC9QYYLYG",
+      "name": "Kaiyol",
+      "tag": "#9YJLJ9UC",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -237,13 +237,6 @@
     {
       "name": "X-THE BARBER",
       "tag": "#PLJYYV0R0",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "[JnJ] C T E",
-      "tag": "#L9Q8CJV9Q",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
