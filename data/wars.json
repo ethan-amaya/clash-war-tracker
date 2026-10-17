@@ -1,15 +1,8 @@
 {
-  "updated": "2026-10-16T20:33:56Z",
+  "updated": "2026-10-17T03:12:37Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
@@ -27,6 +20,13 @@
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -88,18 +88,18 @@
       "isNew": false
     },
     {
-      "name": "Morlyn71",
-      "tag": "#899GU20YC",
-      "trophies1": 1100,
-      "trophies2": 2100,
-      "isNew": false
-    },
-    {
       "name": "Wil",
       "tag": "#C0RLJJGG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
+    },
+    {
+      "name": "Morlyn71",
+      "tag": "#899GU20YC",
+      "trophies1": 1100,
+      "trophies2": 2100,
+      "isNew": false
     },
     {
       "name": "rebel",
@@ -165,17 +165,17 @@
       "isNew": false
     },
     {
-      "name": "MoyaMoya",
-      "tag": "#20GQ9U9R0L",
-      "trophies1": 1800,
-      "trophies2": 1500,
-      "isNew": false
-    },
-    {
       "name": "eThAn",
       "tag": "#P289LP08Q",
       "trophies1": 0,
       "trophies2": 900,
+      "isNew": false
+    },
+    {
+      "name": "MoyaMoya",
+      "tag": "#20GQ9U9R0L",
+      "trophies1": 1800,
+      "trophies2": 1500,
       "isNew": false
     },
     {
