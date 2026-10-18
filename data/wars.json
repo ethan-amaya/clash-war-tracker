@@ -1,8 +1,22 @@
 {
-  "updated": "2026-10-18T15:27:16Z",
+  "updated": "2026-10-18T20:09:59Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 2200,
+      "trophies2": 1300,
+      "isNew": false
+    },
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2300,
+      "trophies2": 2500,
+      "isNew": false
+    },
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
@@ -18,24 +32,10 @@
       "isNew": false
     },
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2300,
-      "trophies2": 2500,
-      "isNew": false
-    },
-    {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 2200,
-      "trophies2": 1300,
       "isNew": false
     },
     {
@@ -81,13 +81,6 @@
       "isNew": false
     },
     {
-      "name": "michael",
-      "tag": "#UPYYQVCP0",
-      "trophies1": 700,
-      "trophies2": 400,
-      "isNew": false
-    },
-    {
       "name": "Morlyn71",
       "tag": "#899GU20YC",
       "trophies1": 1100,
@@ -100,6 +93,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
+    },
+    {
+      "name": "michael",
+      "tag": "#UPYYQVCP0",
+      "trophies1": 700,
+      "trophies2": 400,
+      "isNew": false
     },
     {
       "name": "rebel",
@@ -135,6 +135,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Reese81",
+      "tag": "#UUPVLLU",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "thee",
