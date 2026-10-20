@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-20T10:59:08Z",
+  "updated": "2026-10-20T16:25:21Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2250,
-      "trophies2": 2300,
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 1700,
+      "trophies2": 2200,
       "isNew": false
     },
     {
@@ -18,17 +18,17 @@
       "isNew": false
     },
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 1700,
-      "trophies2": 2200,
-      "isNew": false
-    },
-    {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2250,
+      "trophies2": 2300,
       "isNew": false
     },
     {
@@ -102,6 +102,13 @@
       "isNew": false
     },
     {
+      "name": "rebel",
+      "tag": "#VGP9QCG09",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "SHlZDASAUCEGOD",
       "tag": "#PQ28CJPCG",
       "trophies1": 200,
@@ -111,13 +118,6 @@
     {
       "name": "lew",
       "tag": "#YCQCR80YG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "rebel",
-      "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -158,6 +158,13 @@
       "isNew": false
     },
     {
+      "name": "MoyaMoya",
+      "tag": "#20GQ9U9R0L",
+      "trophies1": 2500,
+      "trophies2": 1800,
+      "isNew": false
+    },
+    {
       "name": "Ya Mahdi (\u0639)",
       "tag": "#JRU9U20RV",
       "trophies1": 0,
@@ -169,13 +176,6 @@
       "tag": "#29YR90U0J",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "MoyaMoya",
-      "tag": "#20GQ9U9R0L",
-      "trophies1": 2500,
-      "trophies2": 1800,
       "isNew": false
     },
     {
