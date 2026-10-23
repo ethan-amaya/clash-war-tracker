@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T11:06:03Z",
+  "updated": "2026-10-23T16:33:24Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -11,15 +11,15 @@
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -298,6 +298,13 @@
       "isNew": false
     },
     {
+      "name": "\ud0a4\ucf54",
+      "tag": "#UVQRLYV2V",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
+    },
+    {
       "name": "gcc",
       "tag": "#C8JL2LCGC",
       "trophies1": 0,
@@ -307,6 +314,13 @@
     {
       "name": "Sunnatuna",
       "tag": "#20R9G2LQ8L",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
+    },
+    {
+      "name": "sofimochi",
+      "tag": "#CRJJJU2QJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
