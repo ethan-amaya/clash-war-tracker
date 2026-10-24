@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-24T10:22:37Z",
+  "updated": "2026-10-24T15:27:50Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
       "trophies1": 1700,
       "trophies2": 2200,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
