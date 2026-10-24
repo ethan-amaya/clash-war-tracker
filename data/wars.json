@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-24T15:27:50Z",
+  "updated": "2026-10-24T20:18:58Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 1700,
-      "trophies2": 2200,
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -18,10 +18,10 @@
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 1700,
+      "trophies2": 2200,
       "isNew": false
     },
     {
@@ -200,6 +200,13 @@
       "isNew": false
     },
     {
+      "name": "\u05d0\u05e8\u05d9\u05d0\u05dc",
+      "tag": "#QCGGCYUV",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
+    },
+    {
       "name": "PB_DINO3",
       "tag": "#CGY8J9RGV",
       "trophies1": 0,
@@ -270,6 +277,13 @@
       "isNew": true
     },
     {
+      "name": "Porox",
+      "tag": "#VC0CY80PG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
+    },
+    {
       "name": "Gav Daddy",
       "tag": "#UPCC0J8R",
       "trophies1": 0,
@@ -316,7 +330,7 @@
       "tag": "#20R9G2LQ8L",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "sofimochi",
