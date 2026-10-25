@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T03:26:16Z",
+  "updated": "2026-10-25T20:26:49Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -11,10 +11,10 @@
       "isNew": false
     },
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 1700,
-      "trophies2": 2200,
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -25,10 +25,10 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 1700,
+      "trophies2": 2200,
       "isNew": false
     },
     {
@@ -109,16 +109,16 @@
       "isNew": false
     },
     {
-      "name": "lew",
-      "tag": "#YCQCR80YG",
-      "trophies1": 0,
+      "name": "SHlZDASAUCEGOD",
+      "tag": "#PQ28CJPCG",
+      "trophies1": 200,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "SHlZDASAUCEGOD",
-      "tag": "#PQ28CJPCG",
-      "trophies1": 200,
+      "name": "lew",
+      "tag": "#YCQCR80YG",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
@@ -240,6 +240,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Antonio",
+      "tag": "#Y2CVCR0YP",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "Jazzydonut42",
