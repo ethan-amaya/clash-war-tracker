@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-27T03:55:02Z",
+  "updated": "2026-10-27T11:40:42Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 900,
-      "trophies2": 1700,
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2800,
+      "trophies2": 2250,
       "isNew": false
     },
     {
@@ -18,10 +18,10 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 900,
+      "trophies2": 1700,
       "isNew": false
     },
     {
@@ -32,10 +32,10 @@
       "isNew": false
     },
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2800,
-      "trophies2": 2250,
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -193,18 +193,18 @@
       "isNew": false
     },
     {
-      "name": "King B",
-      "tag": "#G9GLJGCGP",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "\u05d0\u05e8\u05d9\u05d0\u05dc",
       "tag": "#QCGGCYUV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
+    },
+    {
+      "name": "King B",
+      "tag": "#G9GLJGCGP",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "PB_DINO3",
