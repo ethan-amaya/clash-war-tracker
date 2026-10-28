@@ -1,18 +1,11 @@
 {
-  "updated": "2026-10-28T12:12:44Z",
+  "updated": "2026-10-28T22:14:58Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -29,6 +22,13 @@
       "tag": "#UYV8Q8CL0",
       "trophies1": 900,
       "trophies2": 1700,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -81,17 +81,17 @@
       "isNew": false
     },
     {
-      "name": "Wil",
-      "tag": "#C0RLJJGG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Morlyn71",
       "tag": "#899GU20YC",
       "trophies1": 1200,
       "trophies2": 700,
+      "isNew": false
+    },
+    {
+      "name": "Wil",
+      "tag": "#C0RLJJGG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -207,15 +207,15 @@
       "isNew": false
     },
     {
-      "name": "PB_DINO3",
-      "tag": "#CGY8J9RGV",
+      "name": "BigJigglyDog",
+      "tag": "#8VPQQ2JC8",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "BigJigglyDog",
-      "tag": "#8VPQQ2JC8",
+      "name": "PB_DINO3",
+      "tag": "#CGY8J9RGV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -242,18 +242,18 @@
       "isNew": false
     },
     {
-      "name": "Antonio",
-      "tag": "#Y2CVCR0YP",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "X-THE BARBER",
       "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Antonio",
+      "tag": "#Y2CVCR0YP",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "Jazzydonut42",
