@@ -1,15 +1,8 @@
 {
-  "updated": "2026-10-30T12:13:34Z",
+  "updated": "2026-10-30T21:57:50Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
@@ -18,8 +11,8 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -32,8 +25,15 @@
       "isNew": false
     },
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -60,13 +60,6 @@
       "isNew": false
     },
     {
-      "name": "Kaiyol",
-      "tag": "#9YJLJ9UC",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "BananaKingv2",
       "tag": "#2UYPJ29VV",
       "trophies1": 100,
@@ -74,10 +67,10 @@
       "isNew": false
     },
     {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
+      "name": "Kaiyol",
+      "tag": "#9YJLJ9UC",
       "trophies1": 0,
-      "trophies2": 1100,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -85,6 +78,13 @@
       "tag": "#899GU20YC",
       "trophies1": 1200,
       "trophies2": 700,
+      "isNew": false
+    },
+    {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 0,
+      "trophies2": 1100,
       "isNew": false
     },
     {
@@ -144,17 +144,17 @@
       "isNew": true
     },
     {
-      "name": "thee",
-      "tag": "#9UL8JCLUV",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "MoyaMoya",
       "tag": "#20GQ9U9R0L",
       "trophies1": 2500,
       "trophies2": 2500,
+      "isNew": false
+    },
+    {
+      "name": "thee",
+      "tag": "#9UL8JCLUV",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
