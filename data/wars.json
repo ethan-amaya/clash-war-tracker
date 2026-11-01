@@ -1,11 +1,25 @@
 {
-  "updated": "2026-10-31T21:03:23Z",
+  "updated": "2026-11-01T04:40:10Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 900,
+      "trophies2": 1700,
+      "isNew": false
+    },
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -25,20 +39,6 @@
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 900,
-      "trophies2": 1700,
-      "isNew": false
-    },
-    {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
       "trophies1": 0,
@@ -53,16 +53,16 @@
       "isNew": false
     },
     {
-      "name": "Bread",
-      "tag": "#VC9QYYLYG",
-      "trophies1": 0,
+      "name": "BananaKingv2",
+      "tag": "#2UYPJ29VV",
+      "trophies1": 100,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "BananaKingv2",
-      "tag": "#2UYPJ29VV",
-      "trophies1": 100,
+      "name": "Bread",
+      "tag": "#VC9QYYLYG",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
@@ -130,18 +130,18 @@
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Reese81",
       "tag": "#UUPVLLU",
       "trophies1": 0,
       "trophies2": 650,
       "isNew": true
+    },
+    {
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "MoyaMoya",
@@ -340,15 +340,15 @@
       "isNew": true
     },
     {
-      "name": "gcc",
-      "tag": "#C8JL2LCGC",
+      "name": "Sunnatuna",
+      "tag": "#20R9G2LQ8L",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "Sunnatuna",
-      "tag": "#20R9G2LQ8L",
+      "name": "gcc",
+      "tag": "#C8JL2LCGC",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
