@@ -1,8 +1,15 @@
 {
-  "updated": "2026-11-02T14:53:08Z",
+  "updated": "2026-11-03T00:36:01Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
@@ -18,24 +25,17 @@
       "isNew": false
     },
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
       "trophies1": 0,
       "trophies2": 900,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -228,6 +228,13 @@
       "isNew": false
     },
     {
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "UltimatePotato",
       "tag": "#VPP2922CJ",
       "trophies1": 0,
@@ -237,13 +244,6 @@
     {
       "name": "Lilboylee",
       "tag": "#YQCR2YVQU",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "X-THE BARBER",
-      "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
