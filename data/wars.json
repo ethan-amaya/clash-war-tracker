@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:56:41Z",
+  "updated": "2026-11-04T05:01:32Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -11,22 +11,15 @@
       "isNew": false
     },
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 3000,
-      "trophies2": 2800,
-      "isNew": false
-    },
-    {
-      "name": "jm.s561",
-      "tag": "#UVYU90GGJ",
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -39,8 +32,15 @@
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 3000,
+      "trophies2": 2800,
+      "isNew": false
+    },
+    {
+      "name": "jm.s561",
+      "tag": "#UVYU90GGJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -74,6 +74,13 @@
       "isNew": false
     },
     {
+      "name": "Wil",
+      "tag": "#C0RLJJGG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "Chuy ;]",
       "tag": "#LVLPGQ2LJ",
       "trophies1": 1450,
@@ -88,24 +95,10 @@
       "isNew": false
     },
     {
-      "name": "Wil",
-      "tag": "#C0RLJJGG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "rebel",
       "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "michael",
-      "tag": "#UPYYQVCP0",
-      "trophies1": 800,
-      "trophies2": 1300,
       "isNew": false
     },
     {
@@ -120,6 +113,13 @@
       "tag": "#PQ28CJPCG",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "michael",
+      "tag": "#UPYYQVCP0",
+      "trophies1": 800,
+      "trophies2": 1300,
       "isNew": false
     },
     {
