@@ -1,11 +1,25 @@
 {
-  "updated": "2026-11-04T23:16:10Z",
+  "updated": "2026-11-05T05:23:50Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -22,20 +36,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 3000,
       "trophies2": 2800,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
