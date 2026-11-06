@@ -1,29 +1,8 @@
 {
-  "updated": "2026-11-06T13:49:02Z",
+  "updated": "2026-11-06T22:45:12Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
-    {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 3000,
-      "trophies2": 2800,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 0,
-      "trophies2": 900,
-      "isNew": false
-    },
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
@@ -34,6 +13,27 @@
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 3000,
+      "trophies2": 2800,
+      "isNew": false
+    },
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 0,
+      "trophies2": 900,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -249,18 +249,18 @@
       "isNew": false
     },
     {
-      "name": "Antonio",
-      "tag": "#Y2CVCR0YP",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "Jazzydonut42",
       "tag": "#9J28VQQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Antonio",
+      "tag": "#Y2CVCR0YP",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "Erick",
@@ -323,7 +323,7 @@
       "tag": "#UVQRLYV2V",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Jayy",
@@ -337,7 +337,7 @@
       "tag": "#CRJJJU2QJ",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Sunnatuna",
