@@ -1,8 +1,15 @@
 {
-  "updated": "2026-11-06T05:23:02Z",
+  "updated": "2026-11-06T13:49:02Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 3000,
+      "trophies2": 2800,
+      "isNew": false
+    },
     {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
@@ -22,13 +29,6 @@
       "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 3000,
-      "trophies2": 2800,
       "isNew": false
     },
     {
@@ -74,6 +74,13 @@
       "isNew": false
     },
     {
+      "name": "Chuy ;]",
+      "tag": "#LVLPGQ2LJ",
+      "trophies1": 1450,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "Wil",
       "tag": "#C0RLJJGG",
       "trophies1": 0,
@@ -85,13 +92,6 @@
       "tag": "#899GU20YC",
       "trophies1": 900,
       "trophies2": 1200,
-      "isNew": false
-    },
-    {
-      "name": "Chuy ;]",
-      "tag": "#LVLPGQ2LJ",
-      "trophies1": 1450,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -274,7 +274,7 @@
       "tag": "#R9C08VRRU",
       "trophies1": 400,
       "trophies2": 400,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "jay#1",
@@ -333,18 +333,18 @@
       "isNew": true
     },
     {
-      "name": "Sunnatuna",
-      "tag": "#20R9G2LQ8L",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "sofimochi",
       "tag": "#CRJJJU2QJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": true
+    },
+    {
+      "name": "Sunnatuna",
+      "tag": "#20R9G2LQ8L",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
     },
     {
       "name": "gcc",
