@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T15:20:48Z",
+  "updated": "2026-11-10T01:13:22Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -18,6 +18,13 @@
       "isNew": false
     },
     {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
       "trophies1": 0,
@@ -27,13 +34,6 @@
     {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -109,17 +109,17 @@
       "isNew": false
     },
     {
-      "name": "SHlZDASAUCEGOD",
-      "tag": "#PQ28CJPCG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "michael",
       "tag": "#UPYYQVCP0",
       "trophies1": 1700,
       "trophies2": 800,
+      "isNew": false
+    },
+    {
+      "name": "SHlZDASAUCEGOD",
+      "tag": "#PQ28CJPCG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -130,15 +130,15 @@
       "isNew": false
     },
     {
-      "name": "Reese81",
-      "tag": "#UUPVLLU",
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
+      "name": "Reese81",
+      "tag": "#UUPVLLU",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
