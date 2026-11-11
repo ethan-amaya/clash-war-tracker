@@ -1,8 +1,22 @@
 {
-  "updated": "2026-11-10T22:53:28Z",
+  "updated": "2026-11-11T04:55:11Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "jm.s561",
+      "tag": "#UVYU90GGJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
@@ -15,13 +29,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 2950,
       "trophies2": 3000,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -39,16 +46,16 @@
       "isNew": false
     },
     {
-      "name": "jm.s561",
-      "tag": "#UVYU90GGJ",
-      "trophies1": 0,
+      "name": "N\u00fckmon",
+      "tag": "#RURLYGQ2C",
+      "trophies1": 700,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "N\u00fckmon",
-      "tag": "#RURLYGQ2C",
-      "trophies1": 700,
+      "name": "Bread",
+      "tag": "#VC9QYYLYG",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
@@ -57,13 +64,6 @@
       "tag": "#2UYPJ29VV",
       "trophies1": 0,
       "trophies2": 200,
-      "isNew": false
-    },
-    {
-      "name": "Bread",
-      "tag": "#VC9QYYLYG",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -305,16 +305,16 @@
       "isNew": false
     },
     {
-      "name": "MrTortise54",
-      "tag": "#V2UP2UU9V",
-      "trophies1": 0,
+      "name": "\ud0a4\ucf54",
+      "tag": "#UVQRLYV2V",
+      "trophies1": 300,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "\ud0a4\ucf54",
-      "tag": "#UVQRLYV2V",
-      "trophies1": 300,
+      "name": "MrTortise54",
+      "tag": "#V2UP2UU9V",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
@@ -326,18 +326,18 @@
       "isNew": false
     },
     {
-      "name": "Jayy",
-      "tag": "#2C82292P",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": true
-    },
-    {
       "name": "sofimochi",
       "tag": "#CRJJJU2QJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "Jayy",
+      "tag": "#2C82292P",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "Sunnatuna",
