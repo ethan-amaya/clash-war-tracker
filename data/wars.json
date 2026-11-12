@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T00:06:28Z",
+  "updated": "2026-11-12T14:42:39Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -18,13 +18,6 @@
       "isNew": false
     },
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
       "trophies1": 0,
@@ -34,6 +27,13 @@
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -221,15 +221,15 @@
       "isNew": false
     },
     {
-      "name": "wezzy",
-      "tag": "#U80UCYG98",
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "X-THE BARBER",
-      "tag": "#PLJYYV0R0",
+      "name": "wezzy",
+      "tag": "#U80UCYG98",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -305,16 +305,16 @@
       "isNew": false
     },
     {
-      "name": "\ud0a4\ucf54",
-      "tag": "#UVQRLYV2V",
-      "trophies1": 300,
+      "name": "MrTortise54",
+      "tag": "#V2UP2UU9V",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "MrTortise54",
-      "tag": "#V2UP2UU9V",
-      "trophies1": 0,
+      "name": "\ud0a4\ucf54",
+      "tag": "#UVQRLYV2V",
+      "trophies1": 300,
       "trophies2": 0,
       "isNew": false
     },
@@ -326,15 +326,15 @@
       "isNew": false
     },
     {
-      "name": "Jayy",
-      "tag": "#2C82292P",
+      "name": "sofimochi",
+      "tag": "#CRJJJU2QJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "sofimochi",
-      "tag": "#CRJJJU2QJ",
+      "name": "Jayy",
+      "tag": "#2C82292P",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
