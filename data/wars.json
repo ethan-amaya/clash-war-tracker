@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T13:59:33Z",
+  "updated": "2026-11-13T23:17:20Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
@@ -11,29 +11,8 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "jm.s561",
-      "tag": "#UVYU90GGJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -46,9 +25,37 @@
       "isNew": false
     },
     {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "jm.s561",
+      "tag": "#UVYU90GGJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "N\u00fckmon",
       "tag": "#RURLYGQ2C",
       "trophies1": 700,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Bread",
+      "tag": "#VC9QYYLYG",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
@@ -57,13 +64,6 @@
       "tag": "#2UYPJ29VV",
       "trophies1": 0,
       "trophies2": 200,
-      "isNew": false
-    },
-    {
-      "name": "Bread",
-      "tag": "#VC9QYYLYG",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
