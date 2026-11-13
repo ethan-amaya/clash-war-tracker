@@ -1,8 +1,22 @@
 {
-  "updated": "2026-11-12T23:14:58Z",
+  "updated": "2026-11-13T05:20:29Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "jm.s561",
+      "tag": "#UVYU90GGJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
@@ -25,20 +39,6 @@
       "isNew": false
     },
     {
-      "name": "jm.s561",
-      "tag": "#UVYU90GGJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
       "trophies1": 2950,
@@ -53,17 +53,17 @@
       "isNew": false
     },
     {
-      "name": "Bread",
-      "tag": "#VC9QYYLYG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "BananaKingv2",
       "tag": "#2UYPJ29VV",
       "trophies1": 0,
       "trophies2": 200,
+      "isNew": false
+    },
+    {
+      "name": "Bread",
+      "tag": "#VC9QYYLYG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -214,13 +214,6 @@
       "isNew": false
     },
     {
-      "name": "PB_DINO3",
-      "tag": "#CGY8J9RGV",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "X-THE BARBER",
       "tag": "#PLJYYV0R0",
       "trophies1": 0,
@@ -228,8 +221,22 @@
       "isNew": false
     },
     {
+      "name": "PB_DINO3",
+      "tag": "#CGY8J9RGV",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "wezzy",
       "tag": "#U80UCYG98",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Jazzydonut42",
+      "tag": "#9J28VQQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -244,13 +251,6 @@
     {
       "name": "Lilboylee",
       "tag": "#YQCR2YVQU",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Jazzydonut42",
-      "tag": "#9J28VQQR",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -305,16 +305,16 @@
       "isNew": false
     },
     {
-      "name": "MrTortise54",
-      "tag": "#V2UP2UU9V",
-      "trophies1": 0,
+      "name": "\ud0a4\ucf54",
+      "tag": "#UVQRLYV2V",
+      "trophies1": 300,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "\ud0a4\ucf54",
-      "tag": "#UVQRLYV2V",
-      "trophies1": 300,
+      "name": "MrTortise54",
+      "tag": "#V2UP2UU9V",
+      "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
