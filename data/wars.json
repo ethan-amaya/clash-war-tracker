@@ -1,32 +1,11 @@
 {
-  "updated": "2026-11-17T15:33:59Z",
+  "updated": "2026-11-18T00:36:16Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 1100,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -39,8 +18,29 @@
       "isNew": false
     },
     {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 1100,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "jm.s561",
       "tag": "#UVYU90GGJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -200,15 +200,15 @@
       "isNew": false
     },
     {
-      "name": "King B",
-      "tag": "#G9GLJGCGP",
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "X-THE BARBER",
-      "tag": "#PLJYYV0R0",
+      "name": "King B",
+      "tag": "#G9GLJGCGP",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
