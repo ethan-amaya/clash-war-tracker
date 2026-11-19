@@ -1,8 +1,22 @@
 {
-  "updated": "2026-11-18T23:55:41Z",
+  "updated": "2026-11-19T06:22:23Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "ssjpapi",
+      "tag": "#PY0UL9VJJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
@@ -15,20 +29,6 @@
       "tag": "#PJJJGYU",
       "trophies1": 2650,
       "trophies2": 2950,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "ssjpapi",
-      "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -88,17 +88,17 @@
       "isNew": false
     },
     {
-      "name": "Morlyn71",
-      "tag": "#899GU20YC",
-      "trophies1": 2300,
-      "trophies2": 700,
-      "isNew": false
-    },
-    {
       "name": "rebel",
       "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Morlyn71",
+      "tag": "#899GU20YC",
+      "trophies1": 2300,
+      "trophies2": 700,
       "isNew": false
     },
     {
@@ -193,15 +193,15 @@
       "isNew": false
     },
     {
-      "name": "\u05d0\u05e8\u05d9\u05d0\u05dc",
-      "tag": "#QCGGCYUV",
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "X-THE BARBER",
-      "tag": "#PLJYYV0R0",
+      "name": "\u05d0\u05e8\u05d9\u05d0\u05dc",
+      "tag": "#QCGGCYUV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
