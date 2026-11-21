@@ -1,8 +1,15 @@
 {
-  "updated": "2026-11-21T05:49:59Z",
+  "updated": "2026-11-21T14:17:49Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 2650,
+      "trophies2": 2950,
+      "isNew": false
+    },
     {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
@@ -22,13 +29,6 @@
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2650,
-      "trophies2": 2950,
       "isNew": false
     },
     {
@@ -186,15 +186,15 @@
       "isNew": false
     },
     {
-      "name": "Moss",
-      "tag": "#CGU9P9VG",
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "X-THE BARBER",
-      "tag": "#PLJYYV0R0",
+      "name": "Moss",
+      "tag": "#CGU9P9VG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -312,15 +312,15 @@
       "isNew": false
     },
     {
-      "name": "MrTortise54",
-      "tag": "#V2UP2UU9V",
+      "name": "sofimochi",
+      "tag": "#CRJJJU2QJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "sofimochi",
-      "tag": "#CRJJJU2QJ",
+      "name": "MrTortise54",
+      "tag": "#V2UP2UU9V",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
