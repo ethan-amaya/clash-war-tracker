@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-23T05:59:09Z",
+  "updated": "2026-11-23T17:55:20Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 1700,
+      "trophies2": 2650,
+      "isNew": false
+    },
+    {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
-      "trophies1": 1100,
-      "trophies2": 0,
+      "trophies1": 0,
+      "trophies2": 1100,
       "isNew": false
     },
     {
@@ -32,13 +39,6 @@
       "isNew": false
     },
     {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 2650,
-      "trophies2": 2950,
-      "isNew": false
-    },
-    {
       "name": "groovylord",
       "tag": "#PR8YJJLLG",
       "trophies1": 0,
@@ -49,7 +49,7 @@
       "name": "N\u00fckmon",
       "tag": "#RURLYGQ2C",
       "trophies1": 0,
-      "trophies2": 700,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -76,8 +76,8 @@
     {
       "name": "Chuy ;]",
       "tag": "#LVLPGQ2LJ",
-      "trophies1": 1100,
-      "trophies2": 1350,
+      "trophies1": 1400,
+      "trophies2": 1100,
       "isNew": false
     },
     {
@@ -88,17 +88,17 @@
       "isNew": false
     },
     {
-      "name": "Morlyn71",
-      "tag": "#899GU20YC",
-      "trophies1": 2300,
-      "trophies2": 700,
-      "isNew": false
-    },
-    {
       "name": "rebel",
       "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Morlyn71",
+      "tag": "#899GU20YC",
+      "trophies1": 1800,
+      "trophies2": 2300,
       "isNew": false
     },
     {
@@ -118,8 +118,8 @@
     {
       "name": "michael",
       "tag": "#UPYYQVCP0",
-      "trophies1": 1000,
-      "trophies2": 1700,
+      "trophies1": 200,
+      "trophies2": 1000,
       "isNew": false
     },
     {
@@ -146,8 +146,8 @@
     {
       "name": "MoyaMoya",
       "tag": "#20GQ9U9R0L",
-      "trophies1": 2400,
-      "trophies2": 2300,
+      "trophies1": 2200,
+      "trophies2": 2400,
       "isNew": false
     },
     {
@@ -181,8 +181,8 @@
     {
       "name": "eThAn",
       "tag": "#P289LP08Q",
-      "trophies1": 300,
-      "trophies2": 200,
+      "trophies1": 800,
+      "trophies2": 300,
       "isNew": false
     },
     {
@@ -265,8 +265,8 @@
     {
       "name": "SnackPak",
       "tag": "#R9C08VRRU",
-      "trophies1": 100,
-      "trophies2": 0,
+      "trophies1": 0,
+      "trophies2": 100,
       "isNew": false
     },
     {
@@ -293,7 +293,7 @@
     {
       "name": "Ares",
       "tag": "#20GJ0Y9RL9",
-      "trophies1": 0,
+      "trophies1": 350,
       "trophies2": 0,
       "isNew": false
     },
@@ -308,7 +308,7 @@
       "name": "\ud0a4\ucf54",
       "tag": "#UVQRLYV2V",
       "trophies1": 0,
-      "trophies2": 300,
+      "trophies2": 0,
       "isNew": false
     },
     {
