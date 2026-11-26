@@ -1,8 +1,22 @@
 {
-  "updated": "2026-11-26T01:37:33Z",
+  "updated": "2026-11-26T16:29:22Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
@@ -15,20 +29,6 @@
       "tag": "#UYV8Q8CL0",
       "trophies1": 0,
       "trophies2": 1100,
-      "isNew": false
-    },
-    {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
-      "trophies1": 0,
-      "trophies2": 0,
       "isNew": false
     },
     {
@@ -151,15 +151,15 @@
       "isNew": false
     },
     {
-      "name": "thee",
-      "tag": "#9UL8JCLUV",
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "X-THE BARBER",
-      "tag": "#PLJYYV0R0",
+      "name": "thee",
+      "tag": "#9UL8JCLUV",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -298,13 +298,6 @@
       "isNew": false
     },
     {
-      "name": "Gav Daddy",
-      "tag": "#UPCC0J8R",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "\ud0a4\ucf54",
       "tag": "#UVQRLYV2V",
       "trophies1": 0,
@@ -312,8 +305,8 @@
       "isNew": false
     },
     {
-      "name": "sofimochi",
-      "tag": "#CRJJJU2QJ",
+      "name": "Gav Daddy",
+      "tag": "#UPCC0J8R",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -321,6 +314,13 @@
     {
       "name": "MrTortise54",
       "tag": "#V2UP2UU9V",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "sofimochi",
+      "tag": "#CRJJJU2QJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
