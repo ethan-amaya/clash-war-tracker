@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-27T01:31:24Z",
+  "updated": "2026-11-27T16:14:37Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 0,
-      "trophies2": 1100,
+      "name": "Aeon^Flux",
+      "tag": "#PJJJGYU",
+      "trophies1": 1700,
+      "trophies2": 2650,
       "isNew": false
     },
     {
@@ -18,17 +18,17 @@
       "isNew": false
     },
     {
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
+      "trophies1": 0,
+      "trophies2": 1100,
+      "isNew": false
+    },
+    {
       "name": "Unofficial.Jayy",
       "tag": "#U9VCY8LQR",
       "trophies1": 0,
       "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Aeon^Flux",
-      "tag": "#PJJJGYU",
-      "trophies1": 1700,
-      "trophies2": 2650,
       "isNew": false
     },
     {
@@ -44,6 +44,13 @@
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
+    },
+    {
+      "name": "<c9> crusaders",
+      "tag": "#QVRCRP2JP",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": true
     },
     {
       "name": "N\u00fckmon",
@@ -284,15 +291,15 @@
       "isNew": false
     },
     {
-      "name": "Porox",
-      "tag": "#VC0CY80PG",
+      "name": "\ud0a4\ucf54",
+      "tag": "#UVQRLYV2V",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "\ud0a4\ucf54",
-      "tag": "#UVQRLYV2V",
+      "name": "Porox",
+      "tag": "#VC0CY80PG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -305,15 +312,15 @@
       "isNew": false
     },
     {
-      "name": "MrTortise54",
-      "tag": "#V2UP2UU9V",
+      "name": "sofimochi",
+      "tag": "#CRJJJU2QJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "sofimochi",
-      "tag": "#CRJJJU2QJ",
+      "name": "MrTortise54",
+      "tag": "#V2UP2UU9V",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
