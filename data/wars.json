@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-26T16:29:22Z",
+  "updated": "2026-11-27T01:31:24Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
     {
-      "name": "Unofficial.Jayy",
-      "tag": "#U9VCY8LQR",
+      "name": "TacoCat",
+      "tag": "#UYV8Q8CL0",
       "trophies1": 0,
-      "trophies2": 0,
+      "trophies2": 1100,
       "isNew": false
     },
     {
@@ -18,17 +18,17 @@
       "isNew": false
     },
     {
+      "name": "Unofficial.Jayy",
+      "tag": "#U9VCY8LQR",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
+    {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
       "trophies1": 1700,
       "trophies2": 2650,
-      "isNew": false
-    },
-    {
-      "name": "TacoCat",
-      "tag": "#UYV8Q8CL0",
-      "trophies1": 0,
-      "trophies2": 1100,
       "isNew": false
     },
     {
@@ -48,13 +48,6 @@
     {
       "name": "N\u00fckmon",
       "tag": "#RURLYGQ2C",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "Bread",
-      "tag": "#VC9QYYLYG",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -88,17 +81,17 @@
       "isNew": false
     },
     {
-      "name": "Morlyn71",
-      "tag": "#899GU20YC",
-      "trophies1": 1800,
-      "trophies2": 2300,
-      "isNew": false
-    },
-    {
       "name": "rebel",
       "tag": "#VGP9QCG09",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "Morlyn71",
+      "tag": "#899GU20YC",
+      "trophies1": 1800,
+      "trophies2": 2300,
       "isNew": false
     },
     {
@@ -144,17 +137,17 @@
       "isNew": false
     },
     {
-      "name": "MoyaMoya",
-      "tag": "#20GQ9U9R0L",
-      "trophies1": 2200,
-      "trophies2": 2400,
-      "isNew": false
-    },
-    {
       "name": "X-THE BARBER",
       "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
+      "isNew": false
+    },
+    {
+      "name": "MoyaMoya",
+      "tag": "#20GQ9U9R0L",
+      "trophies1": 2200,
+      "trophies2": 2400,
       "isNew": false
     },
     {
