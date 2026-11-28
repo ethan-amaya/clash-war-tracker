@@ -1,8 +1,15 @@
 {
-  "updated": "2026-11-27T16:14:37Z",
+  "updated": "2026-11-28T01:09:41Z",
   "season1": "Previous War",
   "season2": "War Before That",
   "members": [
+    {
+      "name": "jm.s561",
+      "tag": "#UVYU90GGJ",
+      "trophies1": 0,
+      "trophies2": 0,
+      "isNew": false
+    },
     {
       "name": "Aeon^Flux",
       "tag": "#PJJJGYU",
@@ -11,17 +18,17 @@
       "isNew": false
     },
     {
-      "name": "groovylord",
-      "tag": "#PR8YJJLLG",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
       "name": "TacoCat",
       "tag": "#UYV8Q8CL0",
       "trophies1": 0,
       "trophies2": 1100,
+      "isNew": false
+    },
+    {
+      "name": "groovylord",
+      "tag": "#PR8YJJLLG",
+      "trophies1": 0,
+      "trophies2": 0,
       "isNew": false
     },
     {
@@ -34,13 +41,6 @@
     {
       "name": "ssjpapi",
       "tag": "#PY0UL9VJJ",
-      "trophies1": 0,
-      "trophies2": 0,
-      "isNew": false
-    },
-    {
-      "name": "jm.s561",
-      "tag": "#UVYU90GGJ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
@@ -137,15 +137,15 @@
       "isNew": false
     },
     {
-      "name": "B\u00ears\u00eark",
-      "tag": "#VU8VRUGQ",
+      "name": "X-THE BARBER",
+      "tag": "#PLJYYV0R0",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
     },
     {
-      "name": "X-THE BARBER",
-      "tag": "#PLJYYV0R0",
+      "name": "B\u00ears\u00eark",
+      "tag": "#VU8VRUGQ",
       "trophies1": 0,
       "trophies2": 0,
       "isNew": false
